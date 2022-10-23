@@ -14,6 +14,8 @@ In this repo stake pool operators can register to become a member of the CNC All
 Go to github.com and login with your account.
 
 Navigate to the CNC-Members registration Repo and fork it.
+https://github.com/CNC-Alliance/CNC-Members
+
 ![image](https://user-images.githubusercontent.com/94197082/197391240-f2943874-58cb-4d1f-9ffa-ae92683481d8.png)
 
 # STEP 2 (Add your pool info):
