@@ -39,16 +39,15 @@ After you added all your information to the list click Commit changes:
 
 
 # STEP 3 (Create your pull request):
-Click on “Pull requests”:
-
+- Click on “Pull requests”:
+- “New Pull Request”:
 ![image](https://user-images.githubusercontent.com/94197082/197392490-92e4743e-6431-490b-abe5-933b1a23520f.png)
 
+-“Create Pull Request:”
 
-“New Pull Request”:
-
-“Create Pull Request:”
+![image](https://user-images.githubusercontent.com/94197082/197392944-0ea70d47-e75c-4454-b7c7-bc98d4e1037b.png)
 
 Give a name and confirm. If everything is done correctly you should see that all Checks have passed, if it fails something probably is wrong with the format of your Json file. Just drop a message in discord and we will fix it together.
 
 # What next?
-If you want to play an active role in this alliance, or just take part in Climate related discussions & hang out with other like minded SPOs & Eco-friends, please join our discord: https://discord.gg/S7AvwgKVcW
+If you want to play an active role in this alliance, or just take part in Climate related discussions or just hang out with other like minded SPOs & Eco-friends, please join our discord: https://discord.gg/S7AvwgKVcW
