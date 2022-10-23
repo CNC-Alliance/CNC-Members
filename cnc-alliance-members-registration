@@ -1,0 +1,73 @@
+{
+  "adapools": {
+    "about": {
+      "name": "CNC (Climate Neutral Cardano)",
+      "description_short": "[CNC] Climate Neutral Cardano is an alliance of Cardano stake pools committed to using 100% renewable energy for the operation of our stake pool servers.",
+      "description_long": "In addition, we donate a portion of our pool operator rewards to protect our climate and environment. Climate Neutral Cardano (CNC) is working together with the Cardano Community, institutions like the Cardano Foundation and IOG, and external parties like Veritree to achieve our common goal of making Cardano the most eco-friendly blockchain platform.",
+      "website": "https://climateneutralcardano.org",
+      "url_png_icon_64x64": "https://github.com/CNC-Alliance/CNC-Members/blob/11a3e4ef394571910d354917f9293496ed670b7b/cnc-logo-64x64.png",
+      "url_png_logo": "https://github.com/CNC-Alliance/CNC-Members/blob/11a3e4ef394571910d354917f9293496ed670b7b/CARDANO%20op2_WT_transparent-01.png",
+      "social": {
+        "twitter_handle": "CNCardano",
+        "telegram_handle": "https://t.me/+eR_00UAp9PY5N2Iy",
+        "discord_handle": "https://discord.gg/S7AvwgKVcW",
+        "github_handle": "CNC-Alliance"
+      },
+      "types": {
+        "charity": false,
+        "business": false,
+        "beneficial": true
+      }
+    },
+    "members": {
+      "0:": {
+        "ticker": "BIO",
+        "poolId": "pool1vqm5n5d503uumuc89s5y4wuczrwe3tlgylt2u2uj7y276avr5pl",
+        "poolHash": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed",
+        "social": {
+          "website": "https://pool.bio",
+          "twitter": "b_for_ada",
+          "discord": "",
+          "telegram": "biopool",
+          "youtube": "https://youtu.be/9OObEAfiX3E",
+          "facebook": ""
+        },
+        "operatorName": "Beatrix",
+        "100%renewables?": "Yes",
+        "github": "BioPool"
+      },
+      "1:": {
+        "ticker": "46S",
+        "poolId": "pool1zt2d9aa8ck62uyy985yny47hr0f6cmf2hnxzke0up0lc7zcp65f",
+        "poolHash": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
+        "social": {
+          "website": "https://46s.au.ngrok.io/",
+          "twitter": "46south1",
+          "discord": "",
+          "telegram": "CSP_46S",
+          "youtube": "",
+          "facebook": "https://fb.me/46South"
+        },
+        "operatorName": "",
+        "100%renewables?": "Yes",
+        "github": "snic-csp"
+      },
+      "2:": {
+        "ticker": "RCADA",
+        "poolId": "pool1p82vmqednsalje23mpnz9u3qt9ruj79xu83mr6p8t93fw5fcu3y",
+        "poolHash": "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297",
+        "social": {
+          "website": "https://www.stakecardanopool.com/",
+          "twitter": "RcadaPool",
+          "discord": "Rick [RCADA] SPO#2819",
+          "telegram": "RickCardo",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Rick",
+        "100%renewables?": "Yes",
+        "github": "brolloks"
+      }
+    }
+  }
+}
