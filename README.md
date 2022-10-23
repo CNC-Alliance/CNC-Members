@@ -33,7 +33,10 @@ Add your pool information into the json list (use Copy-paste) from one of the ot
 
 ![Instructions copy](https://user-images.githubusercontent.com/94197082/197392186-b999a8a3-1752-477b-bfa1-b7068b74b1d9.png)
 
-After you added all your information to the list click commit:
+After you added all your information to the list click Commit changes:
+
+![image](https://user-images.githubusercontent.com/94197082/197392347-bd3947dd-502f-438e-845a-ea0dba7c6d5c.png)
+
 
 # STEP 3 (Create your pull request):
 Click on “Pull requests”:
