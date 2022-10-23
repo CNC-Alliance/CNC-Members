@@ -19,7 +19,9 @@ https://github.com/CNC-Alliance/CNC-Members
 ![image](https://user-images.githubusercontent.com/94197082/197391240-f2943874-58cb-4d1f-9ffa-ae92683481d8.png)
 
 # STEP 2 (Add your pool info):
-After the repo has been forked in your namespace click on the cnc-alliance-member-registration.json file
+After the repo has been forked in your namespace click on the **cnc-alliance-member-registration.json** file
+![image](https://user-images.githubusercontent.com/94197082/197391662-9c81bcdd-544c-403f-a006-93caa613c2a9.png)
+
 
 Click edit:
 
