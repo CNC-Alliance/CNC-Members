@@ -39,11 +39,11 @@ After you added all your information to the list click Commit changes:
 
 
 # STEP 3 (Create your pull request):
-- Click on “Pull requests”:
-- “New Pull Request”:
+1) Click on “Pull requests”:
+2) “New Pull Request”:
 ![image](https://user-images.githubusercontent.com/94197082/197392490-92e4743e-6431-490b-abe5-933b1a23520f.png)
 
--“Create Pull Request:”
+3) “Create Pull Request:”
 
 ![image](https://user-images.githubusercontent.com/94197082/197392944-0ea70d47-e75c-4454-b7c7-bc98d4e1037b.png)
 
