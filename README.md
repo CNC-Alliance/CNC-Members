@@ -30,8 +30,11 @@ After the repo has been forked in your namespace click on the **cnc-alliance-mem
 Add your pool information into the json list (use Copy-paste) from one of the other entries to copy the Json format easily.
 
 **Registration JSON Example:**
+Remember to update the **number** counter higlighted in red below.
+Double check your commas syntax!
 
-![Instructions copy](https://user-images.githubusercontent.com/94197082/197392186-b999a8a3-1752-477b-bfa1-b7068b74b1d9.png)
+![Instructions copy](https://user-images.githubusercontent.com/94197082/197393510-32e4e0ee-97c8-4ae1-b0e2-a7767ff5ae21.png)
+
 
 After you added all your information to the list click Commit changes:
 
