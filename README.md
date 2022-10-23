@@ -1,4 +1,4 @@
-# CNC-Members-Registration Instructions
+# CNC-Members Registration Instructions
 
 # Registration
 In this repo stake pool operators can register to become a member of the CNC Alliance. After you have become an official member your pool will be visible on https://adapools.org/alli 
