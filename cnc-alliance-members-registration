@@ -34,6 +34,7 @@
         },
         "operatorName": "Beatrix",
         "100%renewables?": "Yes",
+        "membershipType": "Active",
         "github": "BioPool"
       },
       "1:": {
@@ -50,6 +51,7 @@
         },
         "operatorName": "",
         "100%renewables?": "Yes",
+        "membershipType?": "Active",
         "github": "snic-csp"
       },
       "2:": {
@@ -66,6 +68,7 @@
         },
         "operatorName": "Rick",
         "100%renewables?": "Yes",
+        "membershipType?": "Active",
         "github": "brolloks"
       },
         "3:": {
@@ -82,6 +85,7 @@
         },
         "operatorName": "Christian",
         "100%renewables?": "Yes",
+        "membershipType?": "Active",
         "github": ""
       }
     }
