@@ -53,4 +53,4 @@ After you added all your information to the list click Commit changes:
 Give a name and confirm. If everything is done correctly you should see that all Checks have passed, if it fails something probably is wrong with the format of your Json file. Just drop a message in discord and we will fix it together.
 
 # What next?
-If you want to play an active role in this alliance, or just take part in Climate related discussions or just hang out with other like minded SPOs & Eco-friends, please join our discord: https://discord.gg/S7AvwgKVcW
+If you want to play an active role in this alliance, or just take part in Climate related discussions or just hang out with other like minded SPOs & Eco-friends, please join our discord: https://discord.gg/5wZg7cQJeM
