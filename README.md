@@ -30,14 +30,15 @@ After the repo has been forked in your namespace click on the **cnc-alliance-mem
 Add your pool information into the json list (use Copy-paste) from one of the other entries to copy the Json format easily.
 
 **Registration JSON Example:**
-Remember to update the **number** counter higlighted in red below.
-Double check your commas syntax!
+- Remember to update the **number** counter higlighted in red below.
+- Double check your commas syntax!
 
 ![Instructions copy](https://user-images.githubusercontent.com/94197082/197393510-32e4e0ee-97c8-4ae1-b0e2-a7767ff5ae21.png)
 
-Please specify whether you are looking to join as an **Active** or **Passive** member in the "membershipType" field
+- Please specify whether you are looking to join as an **Active** or **Passive** member in the "membershipType" field
+![image](https://user-images.githubusercontent.com/116071877/199316145-0618aece-1c0d-44a7-8432-1bfbb8d8023e.png)
 
-After you added all your information to the list click Commit changes:
+- After you added all your information to the list click Commit changes:
 
 ![image](https://user-images.githubusercontent.com/94197082/197392347-bd3947dd-502f-438e-845a-ea0dba7c6d5c.png)
 
