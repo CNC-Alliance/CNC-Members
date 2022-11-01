@@ -35,6 +35,7 @@ Double check your commas syntax!
 
 ![Instructions copy](https://user-images.githubusercontent.com/94197082/197393510-32e4e0ee-97c8-4ae1-b0e2-a7767ff5ae21.png)
 
+Please specify whether you are looking to join as an **Active** or **Passive** member in the "membershipType" field
 
 After you added all your information to the list click Commit changes:
 
