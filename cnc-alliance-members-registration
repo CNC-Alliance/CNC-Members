@@ -87,6 +87,23 @@
         "100%renewables?": "Yes",
         "membershipType?": "Active",
         "github": ""
+      },
+        "4:": {
+        "ticker": "VOLCY",
+        "poolId": "pool1u0u2s080a5plun4acn6s70xa3q98ct7skt88l7w6nnwwyl9ecym",
+        "poolHash": "804c6855f36013f2acb70cef92bb18d48c5cc11549d5b47f6902d7e1c4a57c05",
+        "social": {
+          "website": "volcyada.com",
+          "twitter": "gvolcy",
+          "discord": "Greg [VOLCY]ADA Stakepool#1984",         
+          "telegram": "@VOLCY",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Greg",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "gvolcy"
       }
     }
   }
