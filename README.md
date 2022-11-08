@@ -48,7 +48,7 @@ Add your pool information into the json list (use Copy-paste) from one of the ot
 
 ![Instructions copy](https://user-images.githubusercontent.com/94197082/197393510-32e4e0ee-97c8-4ae1-b0e2-a7767ff5ae21.png)
 
-- Please specify whether you are looking to join as an **Active** or **Passive** member in the "membershipType" field
+- Please specify whether you are looking to join as an **Active**, **ISPO** or **Passive** member in the "membershipType" field
 ![image](https://user-images.githubusercontent.com/116071877/199316145-0618aece-1c0d-44a7-8432-1bfbb8d8023e.png)
 
 - For **Active Members** joining please add the stake address (BECH32 format) of the wallet from which you are using to donate to our current Charity Project.
