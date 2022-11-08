@@ -20,7 +20,7 @@
       }
     },
     "members": {
-      "0:": {
+      "1:": {
         "ticker": "BIO",
         "poolId": "pool1vqm5n5d503uumuc89s5y4wuczrwe3tlgylt2u2uj7y276avr5pl",
         "poolHash": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed",
@@ -35,9 +35,10 @@
         "operatorName": "Beatrix",
         "100%renewables?": "Yes",
         "membershipType": "Active",
-        "github": "BioPool"
+        "github": "BioPool",
+        "donationWalletStakeAddress": ""
       },
-      "1:": {
+      "2:": {
         "ticker": "46S",
         "poolId": "pool1zt2d9aa8ck62uyy985yny47hr0f6cmf2hnxzke0up0lc7zcp65f",
         "poolHash": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
@@ -52,9 +53,10 @@
         "operatorName": "",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": "snic-csp"
+        "github": "snic-csp",
+        "donationWalletStakeAddress": ""
       },
-      "2:": {
+      "3:": {
         "ticker": "RCADA",
         "poolId": "pool1p82vmqednsalje23mpnz9u3qt9ruj79xu83mr6p8t93fw5fcu3y",
         "poolHash": "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297",
@@ -69,9 +71,10 @@
         "operatorName": "Rick",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": "brolloks"
+        "github": "brolloks",
+        "donationWalletStakeAddress": ""
       },
-        "3:": {
+        "4:": {
         "ticker": "SHIFT",
         "poolId": "pool1jrws5cpc6nydu0yxrexf5vflgga0fr4qlduz8cs3pgqmye3xurt",
         "poolHash": "90dd0a6038d4c8de3c861e4c9a313f423af48ea0fb7823e2110a01b2",
@@ -88,7 +91,7 @@
         "membershipType?": "Active",
         "github": ""
       },
-        "4:": {
+        "5:": {
         "ticker": "VOLCY",
         "poolId": "pool1u0u2s080a5plun4acn6s70xa3q98ct7skt88l7w6nnwwyl9ecym",
         "poolHash": "804c6855f36013f2acb70cef92bb18d48c5cc11549d5b47f6902d7e1c4a57c05",
@@ -103,7 +106,26 @@
         "operatorName": "Greg",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": "gvolcy"
+        "github": "gvolcy",
+        "donationWalletStakeAddress": ""
+      },
+        "6:": {
+        "ticker": "RENEW",
+        "poolId": "pool12kdg7dmdfh0t9hmy43pvl38ftu5dvppyn86wgkc4jq8557xkyz7",
+        "poolHash": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
+        "social": {
+          "website": "https://renewpool.ch/",
+          "twitter": "RenewPool",
+          "discord": "Luke - RENEW#3835",
+          "telegram": "Lukas [RENEW]",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Lukas",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "RenewPool",
+        "donationWalletStakeAddress": "stake1uyv4gly3ge228rnkxxjlv94pa44egf28ful7av6ggsgx4ugymu869"
       }
     }
   }
