@@ -89,7 +89,8 @@
         "operatorName": "Christian",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": ""
+        "github": "",
+        "donationWalletStakeAddress": ""
       },
         "5:": {
         "ticker": "VOLCY",
