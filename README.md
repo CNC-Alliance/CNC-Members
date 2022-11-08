@@ -3,12 +3,12 @@
 # Registration
 In this repo stake pool operators can register to become a member of the CNC Alliance. After you have become an official member your pool will be visible on https://adapools.org/alli 
 
-**Disclaimer** By submitting a pull request you agree that all the submited information will be made publicly available to everyone. Also, by submitting you agree that you fit the critera of the CNC Alliance. Our rules are very simple, just have to ensure that your pool operates on a 100% renewable energy source to join, and be an contributing member of our community on discord.
+**Disclaimer** By submitting a pull request you agree that all the submited information will be made publicly available to everyone. Also, by submitting you agree that you fit the critera of the CNC Alliance set out below. 
 
 # Requirements:
 - Github Account
 - Pool_id
-- Pool must operate on a 100% renewable energy (note there are expections where this requirement can be substituted by following the current ISPO application route, find out more about this in our Discord)
+- Pool must operate on a 100% renewable energy (note there are expections where this requirement can be substituted by following the current ISPO application route, find out more about this in our Discord and read the information below)
 
 # SPO Membership Types: 
 
