@@ -35,7 +35,8 @@
         "operatorName": "Beatrix",
         "100%renewables?": "Yes",
         "membershipType": "Active",
-        "github": "BioPool"
+        "github": "BioPool",
+        "donationWalletStakeAddress": ""
       },
       "1:": {
         "ticker": "46S",
@@ -52,7 +53,8 @@
         "operatorName": "",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": "snic-csp"
+        "github": "snic-csp",
+        "donationWalletStakeAddress": ""
       },
       "2:": {
         "ticker": "RCADA",
@@ -69,7 +71,8 @@
         "operatorName": "Rick",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": "brolloks"
+        "github": "brolloks",
+        "donationWalletStakeAddress": ""
       },
         "3:": {
         "ticker": "SHIFT",
@@ -86,7 +89,26 @@
         "operatorName": "Christian",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": ""
+        "github": "",
+        "donationWalletStakeAddress": ""
+      },
+        "4:": {
+        "ticker": "RENEW",
+        "poolId": "pool12kdg7dmdfh0t9hmy43pvl38ftu5dvppyn86wgkc4jq8557xkyz7",
+        "poolHash": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
+        "social": {
+          "website": "https://renewpool.ch/",
+          "twitter": "RenewPool",
+          "discord": "Luke - RENEW#3835",
+          "telegram": "Lukas [RENEW]",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Lukas",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "RenewPool",
+        "donationWalletStakeAddress": "stake1uyv4gly3ge228rnkxxjlv94pa44egf28ful7av6ggsgx4ugymu869"
       }
     }
   }
