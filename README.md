@@ -10,6 +10,19 @@ In this repo stake pool operators can register to become a member of the CNC All
 - Pool_id
 - Pool must operate on a 100% renewable energy (note there are expections where this requirement can be substituted by following the current ISPO application route, find out more about this in our Discord)
 
+# SPO MEMBERSHIP TYPES: 
+
+CNC has two tiers of SPO members - **Passive** members and **Active** members
+
+**Passive CNC members**🌱 are required to run their nodes on 100% renewable energy. They do not have to actively participate in the group’s meetings and hence are not directly contributing to any projects of the group. Passive members are encouraged to join our Discord server and learn more about our ongoing projects and long term vision. We want to have as many pools as possible to act on climate change and promote making Cardano Carbon Neutral. On the other hand, if you do have time, we very much welcome pools to consider becoming an Active member. 👇
+
+**Active CNC members**🌿 are required to run their servers on 100% renewables and donate to environmental causes pioneered by the CNC Alliance. 
+Donations should be at least 85 ADA for the 1st block produced of an epoch and they should participate in the regular meetings on projects and contribute to the progress of the group and its initiatives, like the Cardano Forest project and the CNC Ala project.
+
+**ISPO pools are considered temporary Active members of CNC**
+Pools participating and donating in the CNC Ala ISPO will be considered as offsetting their node energy consumption with their donations to the project, so they will qualify for active membership during this time. We also hope that many will continue to stay beyond the ISPO to run more pools on renewables and to fund more environmental projects. 
+
+--------------------------------------------------
 # STEP 1 (Fork the CNC-Members registration repo):
 Go to github.com and login with your account.
 
