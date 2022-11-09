@@ -127,6 +127,24 @@
         "membershipType?": "Active",
         "github": "RenewPool",
         "donationWalletStakeAddress": "stake1uyv4gly3ge228rnkxxjlv94pa44egf28ful7av6ggsgx4ugymu869"
+      },
+        "7:": {
+        "ticker": "YUMMI",
+        "poolId": "pool1gsrcrjm6ctkquef6m8jsyvplv0j357hupn92uklqdcm7729ytv6",
+        "poolHash": "440781cb7ac2ec0e653ad9e502303f63e51a7afc0ccaae5be06e37ef",
+        "social": {
+          "website": "https://twitter.com/YummiUniverse",
+          "twitter": "YummiUniverse",
+          "discord": "DJ Ƶero ₳ction#4322",
+          "telegram": "@DJZeroAction",
+          "youtube": "https://www.youtube.com/channel/UC4N5sQz928dYz8DaZwSx0JQ",
+          "facebook": ""
+        },
+        "operatorName": "Big Chunku",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "DJZeroAction",
+        "donationWalletStakeAddress": "stake1uyzn0rm7djvqfwza9m3mv9e9fhqtgskmvjmavhyuhla9klc6wfj7z"
       }
     }
   }
