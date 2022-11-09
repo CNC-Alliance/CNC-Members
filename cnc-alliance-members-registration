@@ -145,7 +145,22 @@
         "membershipType?": "Active",
         "github": "DJZeroAction",
         "donationWalletStakeAddress": "stake1uyzn0rm7djvqfwza9m3mv9e9fhqtgskmvjmavhyuhla9klc6wfj7z"
-      }
+      },
+      "8:": {
+        "ticker": "YOON",
+        "poolId": "pool1lxqewhueg4hzyad766zhdwsjet5348ww8mzejf6fprxaw8wfq5s",
+        "poolHash": "f981975f99456e2275bed68576ba12cae91a9dce3ec599274908cdd7",
+        "social": {
+          "website": "https://youradamoon.us",
+          "twitter": "youradamoon",
+          "discord": "dafodill-ii",
+          "telegram": "youradamoon",
+        },
+        "operatorName": "Alex and Devin",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "arichard5",
+        "donationWalletStakeAddress": "stake1u9rpqm6n8mmjt00w8y388dy2rkxhczc9hf42gfjxr86jelqs6kmry"
     }
   }
 }
