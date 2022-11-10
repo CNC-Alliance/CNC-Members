@@ -163,6 +163,24 @@
         "membershipType?": "Active",
         "github": "RSVpool",
         "donationWalletStakeAddress": "stake1uyu27zfl44xal7h6yvll2psx8lslkdrhvdl7tvl9rt8xllc24ckey"
+      },
+        "9:": {
+        "ticker": "HODLR",
+        "poolId": "pool1eaeynp2hs06v4x8q65jfm2xqcd3dc80rv220gmxvwg8m5sd6e7a",
+        "poolHash": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba",
+        "social": {
+          "website": "https://www.hodlerstaking.com",
+          "twitter": "HodlerCoalition",
+          "discord": "Abrahamer_HodlerCoalition#0802",
+          "telegram": "@HodlerStaking",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Abe, Ben, and Lauren",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "Fuma419",
+        "donationWalletStakeAddress": "stake1ux7kq406tvp64r69fmx2sqykzxnee4hgu2cv9zr9vv563xsmh9jjm"
       }
     }
   }
