@@ -191,6 +191,25 @@
         "membershipType?": "Active",
         "github": "Fuma419",
         "donationWalletStakeAddress": "stake1ux7kq406tvp64r69fmx2sqykzxnee4hgu2cv9zr9vv563xsmh9jjm"
+      },
+        "10:": {
+        "ticker": "CBH",
+        "poolId": "pool1cspe7naf0mtntwyysqxk6czah3jlh6v4cja8pdfju932yxsehnm",
+        "poolHash": "c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
+        "social": {
+          "website": "https://cardano-blockhouse.de",
+          "twitter": "CardanoBH",
+          "discord": "Jochen  [CBH]#9342",
+          "telegram": "@JochenCardanoBlockhouse",
+          "emailAddress": "support@cardano-blockhouse.de",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Jochen",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "cardano-blockhouse",
+        "donationWalletStakeAddress": "stake1u9mhrnmrm9s2l4ywt3qrctg9gakvfmctwj4u4kuuvzs080ck5mrud"
       }
     }
   }
