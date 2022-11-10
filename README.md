@@ -8,8 +8,8 @@ In this repo stake pool operators can register to become a member of the CNC All
 # Requirements:
 - Github Account
 - Pool_id
-- Stake address of wallet used for donations (Active & ISPO Pools only)
-- email contact address
+- stake address of wallet used for donations (Active & ISPO Pools only)
+- Email contact address
 - Pool must operate on a 100% renewable energy (note there are expections where this requirement can be substituted by following the current ISPO application route, find out more about this in our Discord and read the information below)
 
 # SPO Membership Types: 
