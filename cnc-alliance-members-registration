@@ -147,6 +147,24 @@
         "donationWalletStakeAddress": "stake1uyzn0rm7djvqfwza9m3mv9e9fhqtgskmvjmavhyuhla9klc6wfj7z"
       },
         "8:": {
+        "ticker": "RSV",
+        "poolId": "pool1r0sxz0hygfc0266lhdclve6j3cwcwlth6dya6uey65yxjnwm7qc",
+        "poolHash": "1be0613ee44270f56b5fbb71f667528e1d877d77d349dd7324d50869",
+        "social": {
+          "website": "https://reservoir.network",
+          "twitter": "RSVNODE",
+          "discord": "Tom - [RSV] reservoir node#7075",
+          "telegram": "@reservoirNode",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Tom",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "RSVpool",
+        "donationWalletStakeAddress": "stake1uyu27zfl44xal7h6yvll2psx8lslkdrhvdl7tvl9rt8xllc24ckey"
+      },
+        "9:": {
         "ticker": "HODLR",
         "poolId": "pool1eaeynp2hs06v4x8q65jfm2xqcd3dc80rv220gmxvwg8m5sd6e7a",
         "poolHash": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba",
