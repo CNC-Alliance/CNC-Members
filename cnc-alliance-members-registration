@@ -220,7 +220,9 @@
           "twitter": "youradamoon",
           "discord": "dafodill-ii",
           "telegram": "youradamoon",
-          "email":" "devin.field@gmail.com"
+          "emailAddress": "devin.field@gmail.com",
+          "youtube": "",
+          "facebook": ""
         },
         "operatorName": "Alex and Devin",
         "100%renewables?": "Yes",
@@ -238,6 +240,7 @@
           "discord": "",
           "telegram": "ArmADApool",
           "emailAddress": "info@armadastakepool.com",
+          "youtube": "",
           "facebook": ""
         },
         "operatorName": "Vio",
