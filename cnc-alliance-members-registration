@@ -227,6 +227,24 @@
         "membershipType?": "Active",
         "github": "arichard5",
         "donationWalletStakeAddress": "stake1u9rpqm6n8mmjt00w8y388dy2rkxhczc9hf42gfjxr86jelqs6kmry"
+      },
+        "12:": {
+        "ticker": "ARM1",
+        "poolId": "pool15txd36fltfgc63qq0yxtpqt88eu76s0yhugn9a6q7f4zspq6k5f",
+        "poolHash": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+        "social": {
+          "website": "https://www.armadastakepool.com",
+          "twitter": "ArmADApool",
+          "discord": "",
+          "telegram": "ArmADApool",
+          "emailAddress": "info@armadastakepool.com",
+          "facebook": ""
+        },
+        "operatorName": "Vio",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "maneav",
+        "donationWalletStakeAddress": "stake1u9akuar40u4edzsr0f7nl3yvjvlln6737fc5fgrepaxg4ls7lquph"
       }
     }
   }
