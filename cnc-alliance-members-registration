@@ -248,6 +248,25 @@
         "membershipType": "Active",
         "github": "maneav",
         "donationWalletStakeAddress": "stake1u9akuar40u4edzsr0f7nl3yvjvlln6737fc5fgrepaxg4ls7lquph"
+      },
+        "13": {
+        "ticker": "CO2P",
+        "poolId": "pool1z89dx8u42f4cvujvsjupsg50cfgqhjjuaxegvj59h9q9scra5fy",
+        "poolHash": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+        "social": {
+          "website": "https://www.co2pool.com",
+          "twitter": "Co2Pool",
+          "discord": "",
+          "telegram": "CO2Pool",
+          "emailAddress": "info@co2pool.de",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Stefan and Elias",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "CO2-Pool",
+        "donationWalletStakeAddress": "stake1ux0afzwjp8krepygrpu9zc0tsmxerz5zydwg0l0gj433zeqhwjre9"
       }
     }
   }
