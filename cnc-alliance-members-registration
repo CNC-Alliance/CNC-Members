@@ -267,6 +267,25 @@
         "membershipType": "Active",
         "github": "CO2-Pool",
         "donationWalletStakeAddress": "stake1ux0afzwjp8krepygrpu9zc0tsmxerz5zydwg0l0gj433zeqhwjre9"
+      },
+        "14": {
+        "ticker": "GRANA",
+        "poolId": "pool10fxpa6wkv0wc6wcmahcnz4wvvfx9m7547sevxrge3nfuv7yh8m0",
+        "poolHash": "7a4c1ee9d663dd8d3b1bedf13155cc624c5dfa95f432c30d198cd3c6",
+        "social": {
+          "website": "https://www.granadapool.com",
+          "twitter": "GranAdaSwiss",
+          "discord": "GranADA Pool [GRANA]",
+          "telegram": "granada_staking_pool",
+          "emailAddress": "granada.staking.pool@gmail.com",
+          "youtube": "GranADA Pool",
+          "facebook": ""
+        },
+        "operatorName": "Vito Melchionna & Carolina Isler (@LaPetiteADA)",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "granada-pool",
+        "donationWalletStakeAddress": "stake1uxjtf0gv9ujly2gajcukfsjfzjq360a4z8g0jf3wunufdaq92yvas"
       }
     }
   }
