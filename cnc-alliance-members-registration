@@ -306,7 +306,26 @@
         "membershipType": "Active",
         "github": "ImpressiveSolutions",
         "donationWalletStakeAddress": "stake1uyu2e8ptdnggcdm2y7dv0h3z0n2tf2cxz2zayt42dcamfyswg44h6"
-      }
+      },
+      "16": {
+      "ticker": "BEADA",
+        "poolId": "pool14qpadfdjzw6jkwxy67uhey6tjpyppsmwgz5awfsxwrtpsecslpc",
+        "poolHash": "56950eac32109770d9d157987ef5baceeb70b6fd16b3ce7ef2f21a8a785cbd3e",
+        "social": {
+          "website": "https://www.beadapool.com",
+          "twitter": "BeadaPool",
+          "discord": "Stephen [BEADA]#3585",
+          "telegram": "BeADApool",
+          "emailAddress": "info@beadapool.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Stephen",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": robbyja",
+        "donationWalletStakeAddress": "stake1u8rvy30dk0njzmmlfht2pj5cyztrrqqa5pvle3uckdyx59g8hwtqf"
+        }
     }
   }
 }
