@@ -287,6 +287,25 @@
         "membershipType": "Active",
         "github": "granada-pool",
         "donationWalletStakeAddress": "stake1uxjtf0gv9ujly2gajcukfsjfzjq360a4z8g0jf3wunufdaq92yvas"
+      },
+        "15": {
+        "ticker": "ADA",
+        "poolId": "pool1heks0vmxkfka2amg9c8yn8qdsxvgmzelfx6jhpfkj8ht5mn0r2m",
+        "poolHash": "be6d07b366b26dd577682e0e499c0d81988d8b3f49b52b853691eeba",
+        "social": {
+          "website": "https://Cardano24.com",
+          "twitter": "HolgerCardano24",
+          "discord": "Holger [ADA]#1982",
+          "telegram": "Holger_Cardano24",
+          "emailAddress": "Holger@Cardano24.com",
+          "youtube": "https://www.youtube.com/channel/UCLGkQfzTZWtscj2XTCdtoZQ",
+          "facebook": ""
+        },
+        "operatorName": "Holger",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "ImpressiveSolutions",
+        "donationWalletStakeAddress": "stake1uyu2e8ptdnggcdm2y7dv0h3z0n2tf2cxz2zayt42dcamfyswg44h6"
       }
     }
   }
