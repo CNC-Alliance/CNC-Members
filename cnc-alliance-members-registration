@@ -287,6 +287,25 @@
         "membershipType": "Active",
         "github": "granada-pool",
         "donationWalletStakeAddress": "stake1uxjtf0gv9ujly2gajcukfsjfzjq360a4z8g0jf3wunufdaq92yvas"
+      },
+        "15": {
+        "ticker": "BEADA",
+        "poolId": "pool14qpadfdjzw6jkwxy67uhey6tjpyppsmwgz5awfsxwrtpsecslpc",
+        "poolHash": "56950eac32109770d9d157987ef5baceeb70b6fd16b3ce7ef2f21a8a785cbd3e",
+        "social": {
+          "website": "https://www.beadapool.com",
+          "twitter": "BeadaPool",
+          "discord": "Stephen [BEADA]#3585",
+          "telegram": "BeADApool",
+          "emailAddress": "info@beadapool.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Stephen",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": robbyja",
+        "donationWalletStakeAddress": "stake1u8rvy30dk0njzmmlfht2pj5cyztrrqqa5pvle3uckdyx59g8hwtqf"
       }
     }
   }
