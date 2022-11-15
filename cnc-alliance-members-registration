@@ -323,7 +323,7 @@
         "operatorName": "Stephen",
         "100%renewables?": "Yes",
         "membershipType": "ISPO",
-        "github": robbyja",
+        "github": "robbyja",
         "donationWalletStakeAddress": "stake1u8rvy30dk0njzmmlfht2pj5cyztrrqqa5pvle3uckdyx59g8hwtqf"
         },
       "17": {
@@ -342,7 +342,7 @@
         "operatorName": "Lio",
         "100%renewables?": "Yes",
         "membershipType": "ISPO",
-        "github": F2ViADA",
+        "github": "F2ViADA",
         "donationWalletStakeAddress": "stake1u8hn85ms8ktvjdzk59qja3zm6ezq9crvtlh89tl4n5tvxpqmqea3x"
         },
       "18": {
@@ -362,7 +362,7 @@
         "operatorName": "Brian & Lisa",
         "100%renewables?": "Yes",
         "membershipType": "Active",
-        "github": BrianLee12",
+        "github": "BrianLee12",
         "donationWalletStakeAddress": "stake1u8ee40mnyyur684z7evy7x64djf8dx22yy5vam9yh0thtwgeknqrh"
         },
       "19": {
@@ -381,10 +381,30 @@
         "operatorName": "Genty",
         "100%renewables?": "Yes",
         "membershipType": "ISPO",
-        "github": fsamvura",
+        "github": "fsamvura",
         "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
-        }
+        },
       "20": {
+      "ticker": "MOAI",
+        "poolId": "pool163zy9c8e9dqhxgzuf6rqnn2gewasn37mewq9wpxz90sl7rtj60h",
+        "poolHash": "d44442e0f92b4173205c4e8609cd48cbbb09c7dbcb805704c22be1ff",
+        "social": {
+          "website": "https://moaipool.com/",
+          "website2": "https://www.mythicislands.com/",
+          "twitter": "MoaiPool",
+          "discord": "Will [MOAI]#6961",
+          "telegram": "@MOAIPool",
+          "emailAddress": "stake@moaipool.com",
+          "youtube": "",
+          "twitch": ""
+        },
+        "operatorName": "Will",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "moaipool",
+        "donationWalletStakeAddress": "stake1u9ec7ark7zsw77z4ks38xlu9qvph0pf2t2t5r7sksv0tnpqskf5sk"
+        },
+      "21": {
       "ticker": "ST4NA",
         "poolId": "pool12ur7gf2psr2grf83u6gturpv2je6vxq9rkg8malygdxqkwnqc5h",
         "poolHash": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
