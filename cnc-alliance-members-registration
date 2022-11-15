@@ -345,6 +345,25 @@
         "github": F2ViADA",
         "donationWalletStakeAddress": "stake1u8hn85ms8ktvjdzk59qja3zm6ezq9crvtlh89tl4n5tvxpqmqea3x"
         }
+      "18": {
+      "ticker": "GOMA",
+        "poolId": "pool1jqssxka8hu94aj6f4w3s8l5m6juqmx0hk3ges48jfac6zngmkh8",
+        "poolHash": "9021035ba7bf0b5ecb49aba303fe9bd4b80d99f7b4519854f24f71a1",
+        "social": {
+          "website": "https://www.gomapool.com",
+          "twitter": "@StakeGoma",
+          "discord": "Genty [GOMA]#1954",
+          "telegram": "@fsamvura",
+          "emailAddress": "fsamvura@gmail.com",
+          "youtube": "https://www.youtube.com/channel/UCSX6uUH_kA8i6qWuNuNP_nw",
+          "facebook": "https://www.facebook.com/groups/787007549354776"
+        },
+        "operatorName": "Genty",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": fsamvura",
+        "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
+        }
     }
   }
 }
