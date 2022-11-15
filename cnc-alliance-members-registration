@@ -403,6 +403,22 @@
         "membershipType": "ISPO",
         "github": "sukotruco",
         "donationWalletStakeAddress": "stake1uy6yyshkt90qawfw7xurdewsx8d2k7hdr3hu6sr6axpjf0sc7y6y0"
+      },
+      "21": {
+      "ticker": "OTG",
+        "poolId": "pool1eqj3dzpkcklc2r0v8pt8adrhrshq8m4zsev072ga7a52uj5wv5c",
+        "poolHash": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
+        "social": {
+          "website": "https://adamantium.online",
+          "twitter": "@OTG_WCat",
+          "telegram": "@WCat13",
+          "emailAddress": "waynecataldo@gmail.com"
+      },
+        "operatorName": "WCat",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "wcatz",
+        "donationWalletStakeAddress": "stake1u9wpyantcj4vtu8d7p4d9dcypgr44r94qdwwlugj0d7egcc2anl2y"
       }
     }
   }
