@@ -383,6 +383,20 @@
         "membershipType": "ISPO",
         "github": fsamvura",
         "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
+        },
+      "20": {
+        "ticker": "WEQNT",
+        "poolId": "pool15f9qklmaajysmwx9n3rkgc5s2g3rfffz4x8spnedtzdgq43tpe2",
+        "poolHash": "6cd207420480ba60438c9b3f330779eb84458b0197f2e1c74e8661255c2eaa47",
+        "social": {
+          "website": "https://weqntstakepool.nl/",
+          "twitter": "deniciobernier",
+          "discord": "",
+          "telegram": "Denicio_Bernier",
+          "emailAddress": "",
+          "youtube": "https://www.youtube.com/c/TheCardanoCommunityPodcast",
+          "emailAddress": "info@weqntstakepool.nl",
+          "facebook": ""
         }
     }
   }
