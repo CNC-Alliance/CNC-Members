@@ -325,14 +325,14 @@
         "membershipType": "ISPO",
         "github": robbyja",
         "donationWalletStakeAddress": "stake1u8rvy30dk0njzmmlfht2pj5cyztrrqqa5pvle3uckdyx59g8hwtqf"
-        }
+        },
       "17": {
       "ticker": "DEGAS",
         "poolId": "pool1g9v6nnrn8x7jcj26mqernsh3h97g6gyhamttzg8q39yvjr60g7k",
         "poolHash": "4159a9cc7339bd2c495ad83239c2f1b97c8d2097eed6b120e08948c9",
         "social": {
           "website": "https://www.degas-pool.com",
-          "twitter": "degas_stakepoil",
+          "twitter": "Degas_StakePool",
           "discord": "[DEGAS] pool#3639",
           "telegram": "@degas_pool",
           "emailAddress": "f2vi.ada@gmail.com",
@@ -344,6 +344,26 @@
         "membershipType": "ISPO",
         "github": F2ViADA",
         "donationWalletStakeAddress": "stake1u8hn85ms8ktvjdzk59qja3zm6ezq9crvtlh89tl4n5tvxpqmqea3x"
+        },
+      "18": {
+      "ticker": "GAIA",
+        "poolId": "pool17e4rdh59t4fmn4g3p02xvs853katrjzge830tsmd3sfdc645yvt",
+        "poolHash": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+        "social": {
+          "website": "https://gaiastakepool.com",
+          "website2": "https://frostloregames.com",
+          "twitter": "GAIAstakepool",
+          "discord": "Brian - GAIA Stake Pool#0595",
+          "telegram": "GAIA_Stake_Pool",
+          "emailAddress": "gaiastakepool@gmail.com",
+          "youtube": "https://www.youtube.com/channel/UCeT1jeH6vzkun0IK1KVrfeQ",
+          "twitch": "https://www.twitch.tv/frostloregames"
+        },
+        "operatorName": "Brian & Lisa",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": BrianLee12",
+        "donationWalletStakeAddress": "stake1u8ee40mnyyur684z7evy7x64djf8dx22yy5vam9yh0thtwgeknqrh"
         }
     }
   }
