@@ -456,6 +456,23 @@
         "membershipType": "Active",
         "github": "rhystmorgan",
         "donationWalletStakeAddress": "stake1u9ff8arta55s99ul6se8df2lx25x00x9883yaxggptk9xlsvw4gn8"
+        },
+        "24": {
+      "ticker": "FATTY",
+        "poolId": "pool1d0zaz9zx4jejt8enmvzp7u0mesdj9gkqaexcuxpercm6697ej9t",
+        "poolHash": "6bc5d11446acb3259f33db041f71fbcc1b22a2c0ee4d8e18391e37ad",
+        "social": {
+          "website": "https://www.fatmattstaking.com",
+          "twitter": "@FatMattStaking",
+          "discord": "Kyle | FATTY Pool#5836",
+          "telegram": "@FatMattStaking",
+          "emailAddress": "info@fatmattstaking.com"
+       },
+        "operatorName": "Matt & Kyle",
+        "100%renewables?": "No",
+        "membershipType": "ISPO",
+        "github": "Senojelyk",
+        "donationWalletStakeAddress": "stake1u8ufu6gvxmx6dzxpsqgnaqdnqa8sxxzv06ep4z4n2dl240cc9f9j4"
         }
     }
   }
