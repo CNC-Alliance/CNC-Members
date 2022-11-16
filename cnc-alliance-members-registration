@@ -438,7 +438,25 @@
         "membershipType": "ISPO",
         "github": "wcatz",
         "donationWalletStakeAddress": "stake1u9wpyantcj4vtu8d7p4d9dcypgr44r94qdwwlugj0d7egcc2anl2y"
-      }
+      },
+      "23": {
+      "ticker": "STOIC",
+        "poolId": "pool1pxw4z2m0lmw422hr32dwyy3uz9436g8p7qdmg2sl2w0m5pyk3yn",
+        "poolHash": "099d512b6ffedd552ae38a9ae2123c116b1d20e1f01bb42a1f539fba",
+        "social": {
+          "website": "https://www.stoicpool.com",
+          "twitter": "@StoicPool",
+          "discord": "Rhys [STOIC]#9007",
+          "telegram": "@StoicPool",
+          "emailAddress": "stoiccryptocurrency@gmail.com",
+          "youtube": "https://www.youtube.com/@StoicPool",
+        },
+        "operatorName": "Rhys",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "rhystmorgan",
+        "donationWalletStakeAddress": "stake1u9ff8arta55s99ul6se8df2lx25x00x9883yaxggptk9xlsvw4gn8"
+        }
     }
   }
 }
