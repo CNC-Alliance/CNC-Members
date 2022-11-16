@@ -29,7 +29,6 @@
           "twitter": "b_for_ada",
           "discord": "",
           "telegram": "biopool",
-          "emailAddress": "",
           "youtube": "https://youtu.be/9OObEAfiX3E",
           "emailAddress": "contact@pool.bio",
           "facebook": ""
@@ -87,15 +86,15 @@
           "twitter": "stakeSHIFTteam",
           "discord": "Christian-SHIFT#1702",
           "telegram": "@Chris_SHIFT",
-          "emailAddress": "dr.chriatian.unger@gmail.com",
+          "emailAddress": "dr.christian.unger@gmail.com",
           "youtube": "",
           "facebook": ""
         },
         "operatorName": "Christian",
         "100%renewables?": "Yes",
         "membershipType?": "Active",
-        "github": "",
-        "donationWalletStakeAddress": ""
+        "github": "christ2019",
+        "donationWalletStakeAddress": "stake1u8l54c26vrpvsalscyedahkqqh0scjtv2vlxvqaru82lpess5mxnm"
       },
         "5": {
         "ticker": "VOLCY",
@@ -323,7 +322,7 @@
         "operatorName": "Stephen",
         "100%renewables?": "Yes",
         "membershipType": "ISPO",
-        "github": robbyja",
+        "github": "robbyja",
         "donationWalletStakeAddress": "stake1u8rvy30dk0njzmmlfht2pj5cyztrrqqa5pvle3uckdyx59g8hwtqf"
         },
       "17": {
@@ -342,7 +341,7 @@
         "operatorName": "Lio",
         "100%renewables?": "Yes",
         "membershipType": "ISPO",
-        "github": F2ViADA",
+        "github": "F2ViADA",
         "donationWalletStakeAddress": "stake1u8hn85ms8ktvjdzk59qja3zm6ezq9crvtlh89tl4n5tvxpqmqea3x"
         },
       "18": {
@@ -362,7 +361,7 @@
         "operatorName": "Brian & Lisa",
         "100%renewables?": "Yes",
         "membershipType": "Active",
-        "github": BrianLee12",
+        "github": "BrianLee12",
         "donationWalletStakeAddress": "stake1u8ee40mnyyur684z7evy7x64djf8dx22yy5vam9yh0thtwgeknqrh"
         },
       "19": {
@@ -381,10 +380,84 @@
         "operatorName": "Genty",
         "100%renewables?": "Yes",
         "membershipType": "ISPO",
-        "github": fsamvura",
+        "github": "fsamvura",
         "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
         },
       "20": {
+      "ticker": "MOAI",
+        "poolId": "pool163zy9c8e9dqhxgzuf6rqnn2gewasn37mewq9wpxz90sl7rtj60h",
+        "poolHash": "d44442e0f92b4173205c4e8609cd48cbbb09c7dbcb805704c22be1ff",
+        "social": {
+          "website": "https://moaipool.com/",
+          "website2": "https://www.mythicislands.com/",
+          "twitter": "MoaiPool",
+          "discord": "Will [MOAI]#6961",
+          "telegram": "@MOAIPool",
+          "emailAddress": "stake@moaipool.com",
+          "youtube": "",
+          "twitch": ""
+        },
+        "operatorName": "Will",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "moaipool",
+        "donationWalletStakeAddress": "stake1u9ec7ark7zsw77z4ks38xlu9qvph0pf2t2t5r7sksv0tnpqskf5sk"
+        },
+      "21": {
+      "ticker": "ST4NA",
+        "poolId": "pool12ur7gf2psr2grf83u6gturpv2je6vxq9rkg8malygdxqkwnqc5h",
+        "poolHash": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+        "social": {
+          "website": "https://www.stakefornature.com",
+          "twitter": "@NatureStake",
+          "discord": "Juan Carlos [ST4NA]#6215",
+          "telegram": "@Sukotruco",
+          "emailAddress": "stakefornature@gmail.com",
+          "youtube": "https://www.youtube.com/channel/UCK4NaspZepg1_t7TOKltxIw",
+          "facebook": "https://www.facebook.com/profile.php?id=100069686335268",
+          "instagram": "@cardano_stakefornature"
+        },
+        "operatorName": "Esther",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "sukotruco",
+        "donationWalletStakeAddress": "stake1uy6yyshkt90qawfw7xurdewsx8d2k7hdr3hu6sr6axpjf0sc7y6y0"
+      },
+      "22": {
+      "ticker": "OTG",
+        "poolId": "pool1eqj3dzpkcklc2r0v8pt8adrhrshq8m4zsev072ga7a52uj5wv5c",
+        "poolHash": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
+        "social": {
+          "website": "https://adamantium.online",
+          "twitter": "@OTG_WCat",
+          "telegram": "@WCat13",
+          "emailAddress": "waynecataldo@gmail.com"
+      },
+        "operatorName": "WCat",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "wcatz",
+        "donationWalletStakeAddress": "stake1u9wpyantcj4vtu8d7p4d9dcypgr44r94qdwwlugj0d7egcc2anl2y"
+      },
+      "23": {
+      "ticker": "STOIC",
+        "poolId": "pool1pxw4z2m0lmw422hr32dwyy3uz9436g8p7qdmg2sl2w0m5pyk3yn",
+        "poolHash": "099d512b6ffedd552ae38a9ae2123c116b1d20e1f01bb42a1f539fba",
+        "social": {
+          "website": "https://www.stoicpool.com",
+          "twitter": "@StoicPool",
+          "discord": "Rhys [STOIC]#9007",
+          "telegram": "@StoicPool",
+          "emailAddress": "stoiccryptocurrency@gmail.com",
+          "youtube": "https://www.youtube.com/@StoicPool"
+       },
+        "operatorName": "Rhys",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "rhystmorgan",
+        "donationWalletStakeAddress": "stake1u9ff8arta55s99ul6se8df2lx25x00x9883yaxggptk9xlsvw4gn8"
+        },
+        "24": {
         "ticker": "WEQNT",
         "poolId": "pool15f9qklmaajysmwx9n3rkgc5s2g3rfffz4x8spnedtzdgq43tpe2",
         "poolHash": "6cd207420480ba60438c9b3f330779eb84458b0197f2e1c74e8661255c2eaa47",
@@ -393,7 +466,6 @@
           "twitter": "deniciobernier",
           "discord": "",
           "telegram": "Denicio_Bernier",
-          "emailAddress": "",
           "youtube": "https://www.youtube.com/c/TheCardanoCommunityPodcast",
           "emailAddress": "info@weqntstakepool.nl",
           "facebook": ""
@@ -401,7 +473,7 @@
         "operatorName": "Denicio Bute",
         "100%renewables?": "No",
         "membershipType": "Active",
-        "github": weqanhet",
+        "github": "weqanhet",
         "donationWalletStakeAddress": "stake1uy8xhkv9s94atyrprwslaeswt2wk5pgpqp7e965k2gk0glqvfk2fm"
         }
     }
