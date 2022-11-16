@@ -457,8 +457,27 @@
         "github": "rhystmorgan",
         "donationWalletStakeAddress": "stake1u9ff8arta55s99ul6se8df2lx25x00x9883yaxggptk9xlsvw4gn8"
         },
-        "24": {
-      "ticker": "FATTY",
+       "24": {
+        "ticker": "WEQNT",
+        "poolId": "pool15f9qklmaajysmwx9n3rkgc5s2g3rfffz4x8spnedtzdgq43tpe2",
+        "poolHash": "6cd207420480ba60438c9b3f330779eb84458b0197f2e1c74e8661255c2eaa47",
+        "social": {
+          "website": "https://weqntstakepool.nl/",
+          "twitter": "deniciobernier",
+          "discord": "",
+          "telegram": "Denicio_Bernier",
+          "youtube": "https://www.youtube.com/c/TheCardanoCommunityPodcast",
+          "emailAddress": "info@weqntstakepool.nl",
+          "facebook": ""
+        },
+        "operatorName": "Denicio Bute",
+        "100%renewables?": "No",
+        "membershipType": "Active",
+        "github": "weqanhet",
+        "donationWalletStakeAddress": "stake1uy8xhkv9s94atyrprwslaeswt2wk5pgpqp7e965k2gk0glqvfk2fm"
+        },
+       "25": {
+        "ticker": "FATTY",
         "poolId": "pool1d0zaz9zx4jejt8enmvzp7u0mesdj9gkqaexcuxpercm6697ej9t",
         "poolHash": "6bc5d11446acb3259f33db041f71fbcc1b22a2c0ee4d8e18391e37ad",
         "social": {
