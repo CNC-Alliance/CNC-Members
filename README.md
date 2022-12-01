@@ -53,8 +53,8 @@ Add your pool information into the json list (use Copy-paste) from one of the ot
 - Please specify whether you are looking to join as an **Active**, **ISPO** or **Passive** member in the "membershipType" field
 ![image](https://user-images.githubusercontent.com/116071877/199316145-0618aece-1c0d-44a7-8432-1bfbb8d8023e.png)
 
-- For **Active & ISPO Members** joining please add the stake address (BECH32 format) of the wallet from which you are using to donate to our current Charity Project.
-This will make it possible for us to automatically track your donations from the (**donationWalletStakeAddress** parameter)
+- For **Active & ISPO Members** joining please add the epoch in which you joined the CNCAla ISPO (**ispoEpochStart** parameter) and the stake address (BECH32 format, **donationWalletStakeAddress** parameter) of the wallet(s) from which you are using to donate to our current Charity Project, for us to automatically track your donations.
+The **ispoEpochStart** will be 377 for all the pools which joined the ISPO from the beginning. If you have multiple wallets you donate from, use the following format for **donationWalletStakeAddress**: "donationWalletStakeAddress": ["stake1...", "stake1..."]
 
 - After you added all your information to the list click Commit changes:
 
