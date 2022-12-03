@@ -532,6 +532,7 @@
         "100%renewables?": "Yes",
         "membershipType": "Active",
         "github": "ma42mi",
+        "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uyl32cd4sxsn5vym4fe5xt7n428n8urc052rve46tfjsxkq7v5j8j"
         }
     }
