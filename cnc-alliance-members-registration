@@ -239,7 +239,7 @@
         "membershipType?": "Active",
         "github": "arichard5",
         "ispoEpochStart": 377,
-        "donationWalletStakeAddress": "stake1u9rpqm6n8mmjt00w8y388dy2rkxhczc9hf42gfjxr86jelqs6kmry"
+        "donationWalletStakeAddress": ["stake1u9rpqm6n8mmjt00w8y388dy2rkxhczc9hf42gfjxr86jelqs6kmry", "stake1u9n85h68rq8lrk8c6tv5fc9wv2nfn7pw86clsv497kn5xgsc3a2vr"]
       },
         "12": {
         "ticker": "ARM1",
