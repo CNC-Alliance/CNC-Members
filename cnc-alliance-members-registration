@@ -78,7 +78,7 @@
         "membershipType?": "Active",
         "github": "brolloks",
         "ispoEpochStart": 377,
-        "donationWalletStakeAddress": "stake1u8jyu2xvu23qgnvsma3kysja3sv5qymedmzkqs2tg60l40s8e0cgw"
+        "donationWalletStakeAddress": ["stake1u8jyu2xvu23qgnvsma3kysja3sv5qymedmzkqs2tg60l40s8e0cgw", "stake1ux787e5m4dlf2qgljpg9evj0vlzv5wu0u0m0w6q9kw4jemqxhtxep"]
       },
         "4": {
         "ticker": "SHIFT",
