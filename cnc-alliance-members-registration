@@ -534,7 +534,25 @@
         "github": "ma42mi",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uyl32cd4sxsn5vym4fe5xt7n428n8urc052rve46tfjsxkq7v5j8j"
-        }
+        },
+       "26": {
+        "ticker": "CENTU",
+        "poolId": "pool1s09jaeq38rlfp3wtedlc82fwgu7xkl9mv7fqgu87qnggzzrqy6g",
+        "poolHash": "83cb2ee41138fe90c5cbcb7f83a92e473c6b7cbb67920470fe04d081",
+        "social": {
+          "website": "https://www.centuo.com",
+          "twitter": "@centuo",
+          "discord": "centuo",
+          "telegram": "@centuo",
+          "emailAddress": "centuo.apps@gmail.com"
+       },
+        "operatorName": "Centuo",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "centuo",
+        "ispoEpochStart": 389,
+        "donationWalletStakeAddress": "stake1uxlld7fqr2ru7frlg6rcr06f7e6kgufkqdp9rd9llhp3tncd6tkkf"
+       }
     }
   }
 }
