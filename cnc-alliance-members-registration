@@ -58,7 +58,7 @@
         "membershipType?": "Active",
         "github": "snic-csp",
         "ispoEpochStart": 377,
-        "donationWalletStakeAddress": "stake1uxmmwx4yhz33hesa0kn9neh8fx4q7z94yrh0sh3gc7jecds5c60uh"
+        "donationWalletStakeAddress": ["stake1uxmmwx4yhz33hesa0kn9neh8fx4q7z94yrh0sh3gc7jecds5c60uh", "stake1uyxckaa5y03t7mkhspjukdx5sghh2qvwqjre40nh5kfst4ga38qzx"]
       },
       "3": {
         "ticker": "RCADA",
@@ -439,7 +439,7 @@
         },
         "operatorName": "Esther",
         "100%renewables?": "Yes",
-        "membershipType": "ISPO",
+        "membershipType": "Passive",
         "github": "sukotruco",
         "donationWalletStakeAddress": "stake1uy6yyshkt90qawfw7xurdewsx8d2k7hdr3hu6sr6axpjf0sc7y6y0"
         },
@@ -512,7 +512,7 @@
        },
         "operatorName": "Matt & Kyle",
         "100%renewables?": "No",
-        "membershipType": "ISPO",
+        "membershipType": "Passive",
         "github": "Senojelyk",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u8ufu6gvxmx6dzxpsqgnaqdnqa8sxxzv06ep4z4n2dl240cc9f9j4"
