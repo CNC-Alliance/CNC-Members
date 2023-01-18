@@ -1,0 +1,15 @@
+name: Manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Run script
+      run: python membersImport.py cnc-alliance-members-registration
+    - name: Upload pool_ids.json
+      uses: actions/upload-artifact@v2
+      with:
+        name: pool_ids.json
+        path: pool_ids.json
