@@ -35,7 +35,7 @@
         },
         "operatorName": "Beatrix",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "BioPool",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": ""
@@ -256,7 +256,7 @@
         },
         "operatorName": "Vio",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "maneav",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9akuar40u4edzsr0f7nl3yvjvlln6737fc5fgrepaxg4ls7lquph"
@@ -276,7 +276,7 @@
         },
         "operatorName": "Stefan and Elias",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "CO2-Pool",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1ux0afzwjp8krepygrpu9zc0tsmxerz5zydwg0l0gj433zeqhwjre9"
@@ -296,7 +296,7 @@
         },
         "operatorName": "Vito Melchionna & Carolina Isler (@LaPetiteADA)",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "granada-pool",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uxjtf0gv9ujly2gajcukfsjfzjq360a4z8g0jf3wunufdaq92yvas"
@@ -316,7 +316,7 @@
         },
         "operatorName": "Holger",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "ImpressiveSolutions",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": ["stake1uyu2e8ptdnggcdm2y7dv0h3z0n2tf2cxz2zayt42dcamfyswg44h6", "stake1u9y7sg2ju23c59hl0adtdmmlxqlj7z96jtv9qqt0g9qdjgqrcu2wz"]
@@ -336,7 +336,7 @@
         },
         "operatorName": "Stephen",
         "100%renewables?": "Yes",
-        "membershipType": "ISPO",
+        "membershipType?": "ISPO",
         "github": "robbyja",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u8rvy30dk0njzmmlfht2pj5cyztrrqqa5pvle3uckdyx59g8hwtqf"
@@ -356,7 +356,7 @@
         },
         "operatorName": "Lio",
         "100%renewables?": "Yes",
-        "membershipType": "ISPO",
+        "membershipType?": "ISPO",
         "github": "F2ViADA",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u8hn85ms8ktvjdzk59qja3zm6ezq9crvtlh89tl4n5tvxpqmqea3x"
@@ -377,7 +377,7 @@
         },
         "operatorName": "Brian & Lisa",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "BrianLee12",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u8ee40mnyyur684z7evy7x64djf8dx22yy5vam9yh0thtwgeknqrh"
@@ -397,7 +397,7 @@
         },
         "operatorName": "Genty",
         "100%renewables?": "Yes",
-        "membershipType": "ISPO",
+        "membershipType?": "ISPO",
         "github": "fsamvura",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
@@ -418,7 +418,7 @@
         },
         "operatorName": "Will",
         "100%renewables?": "Yes",
-        "membershipType": "ISPO",
+        "membershipType?": "ISPO",
         "github": "moaipool",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9ec7ark7zsw77z4ks38xlu9qvph0pf2t2t5r7sksv0tnpqskf5sk"
@@ -439,7 +439,7 @@
         },
         "operatorName": "Esther",
         "100%renewables?": "Yes",
-        "membershipType": "Passive",
+        "membershipType?": "Passive",
         "github": "sukotruco",
         "donationWalletStakeAddress": "stake1uy6yyshkt90qawfw7xurdewsx8d2k7hdr3hu6sr6axpjf0sc7y6y0"
         },
@@ -455,7 +455,7 @@
         },
         "operatorName": "WCat",
         "100%renewables?": "Yes",
-        "membershipType": "Passive",
+        "membershipType?": "Passive",
         "github": "wcatz",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9wpyantcj4vtu8d7p4d9dcypgr44r94qdwwlugj0d7egcc2anl2y"
@@ -474,7 +474,7 @@
         },
         "operatorName": "Rhys",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "rhystmorgan",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9ff8arta55s99ul6se8df2lx25x00x9883yaxggptk9xlsvw4gn8"
@@ -494,7 +494,7 @@
         },
         "operatorName": "Denicio Bute",
         "100%renewables?": "No",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "weqanhet",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uy8xhkv9s94atyrprwslaeswt2wk5pgpqp7e965k2gk0glqvfk2fm"
@@ -512,7 +512,7 @@
        },
         "operatorName": "Matt & Kyle",
         "100%renewables?": "No",
-        "membershipType": "Passive",
+        "membershipType?": "Passive",
         "github": "Senojelyk",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u8ufu6gvxmx6dzxpsqgnaqdnqa8sxxzv06ep4z4n2dl240cc9f9j4"
@@ -530,7 +530,7 @@
        },
         "operatorName": "Mat",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "ma42mi",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uyl32cd4sxsn5vym4fe5xt7n428n8urc052rve46tfjsxkq7v5j8j"
@@ -548,7 +548,7 @@
        },
         "operatorName": "Centuo",
         "100%renewables?": "Yes",
-        "membershipType": "Active",
+        "membershipType?": "Active",
         "github": "centuo",
         "ispoEpochStart": 389,
         "donationWalletStakeAddress": "stake1uxlld7fqr2ru7frlg6rcr06f7e6kgufkqdp9rd9llhp3tncd6tkkf"
