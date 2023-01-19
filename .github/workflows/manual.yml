@@ -10,7 +10,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
     - name: Run script
-      run: python membersImport2.py cnc-alliance-members-registration
+      run: python membersImport.py cnc-alliance-members-registration
     - name: Upload pool_ids.json
       uses: actions/upload-artifact@v2
       with:
