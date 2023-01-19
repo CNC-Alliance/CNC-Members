@@ -12,7 +12,7 @@ pool_ids = []
 for key in data["adapools"]["members"].keys():
     v = data["adapools"]["members"][key]
     if v["membershipType"] in ["Active", "ISPO"]:
-        pool_ids.append({"ticker" = v["ticker"], "poolId" = v["poolId"]})
+        pool_ids.append({"ticker" : v["ticker"], "poolId" : v["poolId"]})
        
 pool_ids = sorted(pool_ids, key = lambda x : x["ticker"])
 
