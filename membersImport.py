@@ -8,8 +8,8 @@ print(response.text)
 data = json.loads(response.text)
 
 pool_ids = []
-for member in data["adapools"]["members"]:
-    pool_ids.append(member["poolId"])
+for key in data["adapools"]["members"].keys():
+    pool_ids.append(data["adapools"]["members"][key]["poolId"])
 
 with open("pool_ids.json", "w") as outfile:
     json.dump(pool_ids, outfile)
