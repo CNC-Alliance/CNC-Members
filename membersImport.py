@@ -14,3 +14,4 @@ with open("pool_ids.json", "w") as outfile:
     json.dump(pool_ids, outfile)
 
 print("Pool IDs successfully written to pool_ids.json")
+print(response.text)
