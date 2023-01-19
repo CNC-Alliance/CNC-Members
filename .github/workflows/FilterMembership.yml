@@ -16,10 +16,10 @@ jobs:
 
     - name: Upload JSON file # Step to upload the generated JSON file
       run: |
-        git add pool_ids.json
+        git add CNC_Active_ISPO_pool_ids.json
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Uploaded pool_ids.json"
+        git commit -m "Uploaded CNC_Active_ISPO_pool_ids.json"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
