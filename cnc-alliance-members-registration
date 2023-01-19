@@ -20,7 +20,7 @@
       }
     },
     "members": {
-      "0:": {
+      "1": {
         "ticker": "BIO",
         "poolId": "pool1vqm5n5d503uumuc89s5y4wuczrwe3tlgylt2u2uj7y276avr5pl",
         "poolHash": "603749d1b47c79cdf3072c284abb9810dd98afe827d6ae2b92f115ed",
@@ -30,13 +30,17 @@
           "discord": "",
           "telegram": "biopool",
           "youtube": "https://youtu.be/9OObEAfiX3E",
+          "emailAddress": "contact@pool.bio",
           "facebook": ""
         },
         "operatorName": "Beatrix",
         "100%renewables?": "Yes",
-        "github": "BioPool"
+        "membershipType": "Active",
+        "github": "BioPool",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": ""
       },
-      "1:": {
+      "2": {
         "ticker": "46S",
         "poolId": "pool1zt2d9aa8ck62uyy985yny47hr0f6cmf2hnxzke0up0lc7zcp65f",
         "poolHash": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
@@ -45,14 +49,18 @@
           "twitter": "46south1",
           "discord": "",
           "telegram": "CSP_46S",
+          "emailAddress": "snic.csp@gmail.com",
           "youtube": "",
           "facebook": "https://fb.me/46South"
         },
-        "operatorName": "",
+        "operatorName": "Jeremy",
         "100%renewables?": "Yes",
-        "github": "snic-csp"
+        "membershipType?": "Active",
+        "github": "snic-csp",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": ["stake1uxmmwx4yhz33hesa0kn9neh8fx4q7z94yrh0sh3gc7jecds5c60uh", "stake1uyxckaa5y03t7mkhspjukdx5sghh2qvwqjre40nh5kfst4ga38qzx"]
       },
-      "2:": {
+      "3": {
         "ticker": "RCADA",
         "poolId": "pool1p82vmqednsalje23mpnz9u3qt9ruj79xu83mr6p8t93fw5fcu3y",
         "poolHash": "09d4cd832d9c3bf96551d86622f2205947c978a6e1e3b1e827596297",
@@ -61,14 +69,18 @@
           "twitter": "RcadaPool",
           "discord": "Rick [RCADA] SPO#2819",
           "telegram": "RickCardo",
+          "emailAddress": "rickcardano@gmail.com",
           "youtube": "",
           "facebook": ""
         },
         "operatorName": "Rick",
         "100%renewables?": "Yes",
-        "github": "brolloks"
+        "membershipType?": "Active",
+        "github": "brolloks",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": ["stake1u8jyu2xvu23qgnvsma3kysja3sv5qymedmzkqs2tg60l40s8e0cgw", "stake1ux787e5m4dlf2qgljpg9evj0vlzv5wu0u0m0w6q9kw4jemqxhtxep"]
       },
-        "3:": {
+        "4": {
         "ticker": "SHIFT",
         "poolId": "pool1jrws5cpc6nydu0yxrexf5vflgga0fr4qlduz8cs3pgqmye3xurt",
         "poolHash": "90dd0a6038d4c8de3c861e4c9a313f423af48ea0fb7823e2110a01b2",
@@ -77,13 +89,470 @@
           "twitter": "stakeSHIFTteam",
           "discord": "Christian-SHIFT#1702",
           "telegram": "@Chris_SHIFT",
+          "emailAddress": "dr.christian.unger@gmail.com",
           "youtube": "",
           "facebook": ""
         },
         "operatorName": "Christian",
         "100%renewables?": "Yes",
-        "github": ""
-      }
+        "membershipType?": "Active",
+        "github": "christ2019",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u8l54c26vrpvsalscyedahkqqh0scjtv2vlxvqaru82lpess5mxnm"
+      },
+        "5": {
+        "ticker": "VOLCY",
+        "poolId": "pool1u0u2s080a5plun4acn6s70xa3q98ct7skt88l7w6nnwwyl9ecym",
+        "poolHash": "804c6855f36013f2acb70cef92bb18d48c5cc11549d5b47f6902d7e1c4a57c05",
+        "social": {
+          "website": "volcyada.com",
+          "twitter": "gvolcy",
+          "discord": "Greg [VOLCY]ADA Stakepool#1984",         
+          "telegram": "@VOLCY",
+          "emailAddress": "Gmvbit@gmail.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Greg",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "gvolcy",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u9xhp3ygjfxg3t8j3dst5y2r5y6f84q0cmfrz7yknr8y9rcc8lapn"
+      },
+        "6": {
+        "ticker": "RENEW",
+        "poolId": "pool12kdg7dmdfh0t9hmy43pvl38ftu5dvppyn86wgkc4jq8557xkyz7",
+        "poolHash": "559a8f376d4ddeb2df64ac42cfc4e95f28d6042499f4e45b15900f4a",
+        "social": {
+          "website": "https://renewpool.ch/",
+          "twitter": "RenewPool",
+          "discord": "Luke - RENEW#3835",
+          "telegram": "Lukas [RENEW]",
+          "emailAddress": "",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Lukas",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "RenewPool",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": ["stake1uyv4gly3ge228rnkxxjlv94pa44egf28ful7av6ggsgx4ugymu869", "stake1uy8h3nutknylmy6shtqu2nn0jgsckqdqjnzr0fyu5s54d2schqqjf"]
+      },
+        "7": {
+        "ticker": "YUMMI",
+        "poolId": "pool1gsrcrjm6ctkquef6m8jsyvplv0j357hupn92uklqdcm7729ytv6",
+        "poolHash": "440781cb7ac2ec0e653ad9e502303f63e51a7afc0ccaae5be06e37ef",
+        "social": {
+          "website": "https://twitter.com/YummiUniverse",
+          "twitter": "YummiUniverse",
+          "discord": "DJ Ƶero ₳ction#4322",
+          "email": "support@yummiuniverse.com",
+          "telegram": "@DJZeroAction",
+          "emailAddress": "",
+          "youtube": "https://www.youtube.com/channel/UC4N5sQz928dYz8DaZwSx0JQ",
+          "facebook": ""
+        },
+        "operatorName": "Big Chunku",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "DJZeroAction",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1uyzn0rm7djvqfwza9m3mv9e9fhqtgskmvjmavhyuhla9klc6wfj7z"
+      },
+        "8": {
+        "ticker": "RSV",
+        "poolId": "pool1r0sxz0hygfc0266lhdclve6j3cwcwlth6dya6uey65yxjnwm7qc",
+        "poolHash": "1be0613ee44270f56b5fbb71f667528e1d877d77d349dd7324d50869",
+        "social": {
+          "website": "https://reservoir.network",
+          "twitter": "RSVNODE",
+          "discord": "Tom - [RSV] reservoir node#7075",
+          "telegram": "@reservoirNode",
+          "emailAddress": "",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Tom",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "RSVpool",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1uyu27zfl44xal7h6yvll2psx8lslkdrhvdl7tvl9rt8xllc24ckey"
+      },
+        "9": {
+        "ticker": "HODLR",
+        "poolId": "pool1eaeynp2hs06v4x8q65jfm2xqcd3dc80rv220gmxvwg8m5sd6e7a",
+        "poolHash": "cf7249855783f4ca98e0d5249da8c0c362dc1de36294f46ccc720fba",
+        "social": {
+          "website": "https://www.hodlerstaking.com",
+          "twitter": "HodlerCoalition",
+          "discord": "Abrahamer_HodlerCoalition#0802",
+          "telegram": "@HodlerStaking",
+          "emailAddress": "hodlercoalition@gmail.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Abe, Ben, and Lauren",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "Fuma419",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1ux7kq406tvp64r69fmx2sqykzxnee4hgu2cv9zr9vv563xsmh9jjm"
+      },
+        "10": {
+        "ticker": "CBH",
+        "poolId": "pool1cspe7naf0mtntwyysqxk6czah3jlh6v4cja8pdfju932yxsehnm",
+        "poolHash": "c4039f4fa97ed735b884800d6d605dbc65fbe995c4ba70b532e162a2",
+        "social": {
+          "website": "https://cardano-blockhouse.de",
+          "twitter": "CardanoBH",
+          "discord": "Jochen  [CBH]#9342",
+          "telegram": "@JochenCardanoBlockhouse",
+          "emailAddress": "support@cardano-blockhouse.de",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Jochen",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "cardano-blockhouse",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u9mhrnmrm9s2l4ywt3qrctg9gakvfmctwj4u4kuuvzs080ck5mrud"
+      },
+        "11": {
+        "ticker": "YOON",
+        "poolId": "pool1lxqewhueg4hzyad766zhdwsjet5348ww8mzejf6fprxaw8wfq5s",
+        "poolHash": "f981975f99456e2275bed68576ba12cae91a9dce3ec599274908cdd7",
+        "social": {
+          "website": "https://youradamoon.us",
+          "twitter": "youradamoon",
+          "discord": "dafodill-ii",
+          "telegram": "youradamoon",
+          "emailAddress": "devin.field@gmail.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Alex and Devin",
+        "100%renewables?": "Yes",
+        "membershipType?": "Active",
+        "github": "arichard5",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": ["stake1u9rpqm6n8mmjt00w8y388dy2rkxhczc9hf42gfjxr86jelqs6kmry", "stake1u9n85h68rq8lrk8c6tv5fc9wv2nfn7pw86clsv497kn5xgsc3a2vr"]
+      },
+        "12": {
+        "ticker": "ARM1",
+        "poolId": "pool15txd36fltfgc63qq0yxtpqt88eu76s0yhugn9a6q7f4zspq6k5f",
+        "poolHash": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+        "social": {
+          "website": "https://www.armadastakepool.com",
+          "twitter": "ArmADApool",
+          "discord": "",
+          "telegram": "ArmADApool",
+          "emailAddress": "info@armadastakepool.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Vio",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "maneav",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u9akuar40u4edzsr0f7nl3yvjvlln6737fc5fgrepaxg4ls7lquph"
+      },
+        "13": {
+        "ticker": "CO2P",
+        "poolId": "pool1z89dx8u42f4cvujvsjupsg50cfgqhjjuaxegvj59h9q9scra5fy",
+        "poolHash": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
+        "social": {
+          "website": "https://www.co2pool.com",
+          "twitter": "Co2Pool",
+          "discord": "",
+          "telegram": "CO2Pool",
+          "emailAddress": "info@co2pool.de",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Stefan and Elias",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "CO2-Pool",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1ux0afzwjp8krepygrpu9zc0tsmxerz5zydwg0l0gj433zeqhwjre9"
+      },
+        "14": {
+        "ticker": "GRANA",
+        "poolId": "pool10fxpa6wkv0wc6wcmahcnz4wvvfx9m7547sevxrge3nfuv7yh8m0",
+        "poolHash": "7a4c1ee9d663dd8d3b1bedf13155cc624c5dfa95f432c30d198cd3c6",
+        "social": {
+          "website": "https://www.granadapool.com",
+          "twitter": "GranAdaSwiss",
+          "discord": "GranADA Pool [GRANA]",
+          "telegram": "granada_staking_pool",
+          "emailAddress": "granada.staking.pool@gmail.com",
+          "youtube": "GranADA Pool",
+          "facebook": ""
+        },
+        "operatorName": "Vito Melchionna & Carolina Isler (@LaPetiteADA)",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "granada-pool",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1uxjtf0gv9ujly2gajcukfsjfzjq360a4z8g0jf3wunufdaq92yvas"
+      },
+        "15": {
+        "ticker": "ADA",
+        "poolId": "pool1heks0vmxkfka2amg9c8yn8qdsxvgmzelfx6jhpfkj8ht5mn0r2m",
+        "poolHash": "be6d07b366b26dd577682e0e499c0d81988d8b3f49b52b853691eeba",
+        "social": {
+          "website": "https://Cardano24.com",
+          "twitter": "HolgerCardano24",
+          "discord": "Holger [ADA]#1982",
+          "telegram": "Holger_Cardano24",
+          "emailAddress": "Holger@Cardano24.com",
+          "youtube": "https://www.youtube.com/channel/UCLGkQfzTZWtscj2XTCdtoZQ",
+          "facebook": ""
+        },
+        "operatorName": "Holger",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "ImpressiveSolutions",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": ["stake1uyu2e8ptdnggcdm2y7dv0h3z0n2tf2cxz2zayt42dcamfyswg44h6", "stake1u9y7sg2ju23c59hl0adtdmmlxqlj7z96jtv9qqt0g9qdjgqrcu2wz"]
+      },
+      "16": {
+      "ticker": "BEADA",
+        "poolId": "pool14qpadfdjzw6jkwxy67uhey6tjpyppsmwgz5awfsxwrtpsecslpc",
+        "poolHash": "56950eac32109770d9d157987ef5baceeb70b6fd16b3ce7ef2f21a8a785cbd3e",
+        "social": {
+          "website": "https://www.beadapool.com",
+          "twitter": "BeadaPool",
+          "discord": "Stephen [BEADA]#3585",
+          "telegram": "BeADApool",
+          "emailAddress": "info@beadapool.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Stephen",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "robbyja",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u8rvy30dk0njzmmlfht2pj5cyztrrqqa5pvle3uckdyx59g8hwtqf"
+        },
+      "17": {
+      "ticker": "DEGAS",
+        "poolId": "pool1g9v6nnrn8x7jcj26mqernsh3h97g6gyhamttzg8q39yvjr60g7k",
+        "poolHash": "4159a9cc7339bd2c495ad83239c2f1b97c8d2097eed6b120e08948c9",
+        "social": {
+          "website": "https://www.degas-pool.com",
+          "twitter": "Degas_StakePool",
+          "discord": "[DEGAS] pool#3639",
+          "telegram": "@degas_pool",
+          "emailAddress": "f2vi.ada@gmail.com",
+          "youtube": "",
+          "facebook": ""
+        },
+        "operatorName": "Lio",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "F2ViADA",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u8hn85ms8ktvjdzk59qja3zm6ezq9crvtlh89tl4n5tvxpqmqea3x"
+        },
+      "18": {
+      "ticker": "GAIA",
+        "poolId": "pool17e4rdh59t4fmn4g3p02xvs853katrjzge830tsmd3sfdc645yvt",
+        "poolHash": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+        "social": {
+          "website": "https://gaiastakepool.com",
+          "website2": "https://frostloregames.com",
+          "twitter": "GAIAstakepool",
+          "discord": "Brian - GAIA Stake Pool#0595",
+          "telegram": "GAIA_Stake_Pool",
+          "emailAddress": "gaiastakepool@gmail.com",
+          "youtube": "https://www.youtube.com/channel/UCeT1jeH6vzkun0IK1KVrfeQ",
+          "twitch": "https://www.twitch.tv/frostloregames"
+        },
+        "operatorName": "Brian & Lisa",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "BrianLee12",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u8ee40mnyyur684z7evy7x64djf8dx22yy5vam9yh0thtwgeknqrh"
+        },
+      "19": {
+      "ticker": "GOMA",
+        "poolId": "pool1jqssxka8hu94aj6f4w3s8l5m6juqmx0hk3ges48jfac6zngmkh8",
+        "poolHash": "9021035ba7bf0b5ecb49aba303fe9bd4b80d99f7b4519854f24f71a1",
+        "social": {
+          "website": "https://www.gomapool.com",
+          "twitter": "@StakeGoma",
+          "discord": "Genty [GOMA]#1954",
+          "telegram": "@fsamvura",
+          "emailAddress": "fsamvura@gmail.com",
+          "youtube": "https://www.youtube.com/channel/UCSX6uUH_kA8i6qWuNuNP_nw",
+          "facebook": "https://www.facebook.com/groups/787007549354776"
+        },
+        "operatorName": "Genty",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "fsamvura",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
+        },
+      "20": {
+      "ticker": "MOAI",
+        "poolId": "pool163zy9c8e9dqhxgzuf6rqnn2gewasn37mewq9wpxz90sl7rtj60h",
+        "poolHash": "d44442e0f92b4173205c4e8609cd48cbbb09c7dbcb805704c22be1ff",
+        "social": {
+          "website": "https://moaipool.com/",
+          "website2": "https://www.mythicislands.com/",
+          "twitter": "MoaiPool",
+          "discord": "Will [MOAI]#6961",
+          "telegram": "@MOAIPool",
+          "emailAddress": "stake@moaipool.com",
+          "youtube": "",
+          "twitch": ""
+        },
+        "operatorName": "Will",
+        "100%renewables?": "Yes",
+        "membershipType": "ISPO",
+        "github": "moaipool",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u9ec7ark7zsw77z4ks38xlu9qvph0pf2t2t5r7sksv0tnpqskf5sk"
+        },
+      "21": {
+      "ticker": "ST4NA",
+        "poolId": "pool12ur7gf2psr2grf83u6gturpv2je6vxq9rkg8malygdxqkwnqc5h",
+        "poolHash": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+        "social": {
+          "website": "https://www.stakefornature.com",
+          "twitter": "@NatureStake",
+          "discord": "Juan Carlos [ST4NA]#6215",
+          "telegram": "@Sukotruco",
+          "emailAddress": "stakefornature@gmail.com",
+          "youtube": "https://www.youtube.com/channel/UCK4NaspZepg1_t7TOKltxIw",
+          "facebook": "https://www.facebook.com/profile.php?id=100069686335268",
+          "instagram": "@cardano_stakefornature"
+        },
+        "operatorName": "Esther",
+        "100%renewables?": "Yes",
+        "membershipType": "Passive",
+        "github": "sukotruco",
+        "donationWalletStakeAddress": "stake1uy6yyshkt90qawfw7xurdewsx8d2k7hdr3hu6sr6axpjf0sc7y6y0"
+        },
+      "22": {
+      "ticker": "OTG",
+        "poolId": "pool1eqj3dzpkcklc2r0v8pt8adrhrshq8m4zsev072ga7a52uj5wv5c",
+        "poolHash": "c825168836c5bf850dec38567eb4771c2e03eea28658ff291df768ae",
+        "social": {
+          "website": "https://adamantium.online",
+          "twitter": "@OTG_WCat",
+          "telegram": "@WCat13",
+          "emailAddress": "waynecataldo@gmail.com"
+        },
+        "operatorName": "WCat",
+        "100%renewables?": "Yes",
+        "membershipType": "Passive",
+        "github": "wcatz",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u9wpyantcj4vtu8d7p4d9dcypgr44r94qdwwlugj0d7egcc2anl2y"
+        },      
+      "23": {
+      "ticker": "STOIC",
+        "poolId": "pool1pxw4z2m0lmw422hr32dwyy3uz9436g8p7qdmg2sl2w0m5pyk3yn",
+        "poolHash": "099d512b6ffedd552ae38a9ae2123c116b1d20e1f01bb42a1f539fba",
+        "social": {
+          "website": "https://www.stoicpool.com",
+          "twitter": "@StoicPool",
+          "discord": "Rhys [STOIC]#9007",
+          "telegram": "@StoicPool",
+          "emailAddress": "stoiccryptocurrency@gmail.com",
+          "youtube": "https://www.youtube.com/@StoicPool"
+        },
+        "operatorName": "Rhys",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "rhystmorgan",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u9ff8arta55s99ul6se8df2lx25x00x9883yaxggptk9xlsvw4gn8"
+        },
+       "24": {
+        "ticker": "WEQNT",
+        "poolId": "pool15f9qklmaajysmwx9n3rkgc5s2g3rfffz4x8spnedtzdgq43tpe2",
+        "poolHash": "6cd207420480ba60438c9b3f330779eb84458b0197f2e1c74e8661255c2eaa47",
+        "social": {
+          "website": "https://weqntstakepool.nl/",
+          "twitter": "deniciobernier",
+          "discord": "",
+          "telegram": "Denicio_Bernier",
+          "youtube": "https://www.youtube.com/c/TheCardanoCommunityPodcast",
+          "emailAddress": "info@weqntstakepool.nl",
+          "facebook": ""
+        },
+        "operatorName": "Denicio Bute",
+        "100%renewables?": "No",
+        "membershipType": "Active",
+        "github": "weqanhet",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1uy8xhkv9s94atyrprwslaeswt2wk5pgpqp7e965k2gk0glqvfk2fm"
+        },
+       "25": {
+        "ticker": "FATTY",
+        "poolId": "pool1d0zaz9zx4jejt8enmvzp7u0mesdj9gkqaexcuxpercm6697ej9t",
+        "poolHash": "6bc5d11446acb3259f33db041f71fbcc1b22a2c0ee4d8e18391e37ad",
+        "social": {
+          "website": "https://www.fatmattstaking.com",
+          "twitter": "@FatMattStaking",
+          "discord": "Kyle | FATTY Pool#5836",
+          "telegram": "@FatMattStaking",
+          "emailAddress": "info@fatmattstaking.com"
+       },
+        "operatorName": "Matt & Kyle",
+        "100%renewables?": "No",
+        "membershipType": "Passive",
+        "github": "Senojelyk",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1u8ufu6gvxmx6dzxpsqgnaqdnqa8sxxzv06ep4z4n2dl240cc9f9j4"
+        },
+       "26": {
+        "ticker": "ECO",
+        "poolId": "pool1wt0pf4u2xktp0f7apveu242w6nkm4ltk3m8g039lvuhwq4zdtf3",
+        "poolHash": "72de14d78a359617a7dd0b33c5554ed4edbafd768ece87c4bf672ee0",
+        "social": {
+          "website": "https://www.ecopool.io",
+          "twitter": "@ECOpool_io",
+          "discord": "Mat [ECO]#1679",
+          "telegram": "@ECOpool_io",
+          "emailAddress": "mat@ecopool.io"
+       },
+        "operatorName": "Mat",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "ma42mi",
+        "ispoEpochStart": 377,
+        "donationWalletStakeAddress": "stake1uyl32cd4sxsn5vym4fe5xt7n428n8urc052rve46tfjsxkq7v5j8j"
+        },
+       "27": {
+        "ticker": "CENTU",
+        "poolId": "pool1s09jaeq38rlfp3wtedlc82fwgu7xkl9mv7fqgu87qnggzzrqy6g",
+        "poolHash": "83cb2ee41138fe90c5cbcb7f83a92e473c6b7cbb67920470fe04d081",
+        "social": {
+          "website": "https://www.centuo.com",
+          "twitter": "@centuo",
+          "discord": "centuo",
+          "telegram": "@centuo",
+          "emailAddress": "centuo.apps@gmail.com"
+       },
+        "operatorName": "Centuo",
+        "100%renewables?": "Yes",
+        "membershipType": "Active",
+        "github": "centuo",
+        "ispoEpochStart": 389,
+        "donationWalletStakeAddress": "stake1uxlld7fqr2ru7frlg6rcr06f7e6kgufkqdp9rd9llhp3tncd6tkkf"
+       }
     }
   }
 }
