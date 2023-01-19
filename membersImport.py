@@ -5,6 +5,7 @@ json_url = "https://raw.githubusercontent.com/Brolloks/CNC-Members/main/cnc-alli
 
 response = requests.get(json_url)
 print(response.text)
+print("version 1")
 data = json.loads(response.text)
 
 pool_ids = []
