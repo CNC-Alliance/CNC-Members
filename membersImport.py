@@ -4,7 +4,6 @@ import requests
 json_url = "https://raw.githubusercontent.com/Brolloks/CNC-Members/main/cnc-alliance-members-registration"
 
 response = requests.get(json_url)
-print(response.text)
 print("version 1.1")
 data = json.loads(response.text)
 
