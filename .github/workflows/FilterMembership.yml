@@ -1,0 +1,23 @@
+name: CNC ACTIVE and ISPO Members
+
+on: 
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository # Step to check out the repository
+      uses: actions/checkout@v2
+    
+    - name: Run script # Step to run the python script
+      run: python membersImport.py cnc-alliance-members-registration
+      
+    - name: Upload JSON file # Step to upload the generated JSON file
+      uses: actions/upload-artifact@v2
+      with:
+        name: pool_ids
+        path: pool_ids.json
