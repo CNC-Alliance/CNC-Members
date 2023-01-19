@@ -1,16 +1,16 @@
 import json
-import os
+import requests
 
-filepath = os.path.join(os.path.dirname(__file__),"cnc-alliance-members-registration")
+json_url = "https://github.com/Brolloks/CNC-Members/blob/main/cnc-alliance-members-registration"
 
-with open(filepath) as json_file:
-    data = json.load(json_file)
+response = requests.get(json_url)
+data = json.loads(response.text)
 
-pool_ids = {}
-
-for key, value in data.items():
-    if value["membershipType"] in ["Active", "ISPO"]:
-        pool_ids[value["ticker"]] = value["poolId"]
+pool_ids = []
+for member in data["adapools"]["members"]:
+    pool_ids.append(member["poolId"])
 
 with open("pool_ids.json", "w") as outfile:
     json.dump(pool_ids, outfile)
+
+print("Pool IDs successfully written to pool_ids.json")
