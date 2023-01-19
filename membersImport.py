@@ -16,7 +16,7 @@ for key in data["adapools"]["members"].keys():
 pool_ids = sorted(pool_ids, key = lambda x : x["ticker"])
 
 with open("pool_ids.json", "w") as outfile:
-    json.dump(pool_ids, outfile)
+    json.dump(pool_ids, outfile, indent = 2)
 
 print("Pool IDs successfully written to pool_ids.json")
 print(response.text)
