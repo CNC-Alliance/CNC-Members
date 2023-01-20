@@ -11,9 +11,9 @@ pool_ids = []
 for key in data["adapools"]["members"].keys():
     v = data["adapools"]["members"][key]
     if v["membershipType?"] in ["Active", "ISPO"]:
-        pool_ids.append({"ticker" : "#", v["ticker"], v["poolId"]})
+        pool_ids.append({"#ticker" : v["ticker"], "poolId" : v["poolId"]})
        
-pool_ids = sorted(pool_ids, key = lambda x : x["ticker"])
+pool_ids = sorted(pool_ids, key = lambda x : x["#ticker"])
 
 with open("CNC_Active_ISPO_pool_idsTEST.json", "w") as outfile:
     json.dump(pool_ids, outfile, indent = 2)
