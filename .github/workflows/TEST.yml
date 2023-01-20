@@ -1,4 +1,4 @@
-name: CNC ACTIVE and ISPO Members
+name: TEST_CNC ACTIVE and ISPO Members
 
 on: 
   workflow_dispatch: # Trigger the workflow manually
