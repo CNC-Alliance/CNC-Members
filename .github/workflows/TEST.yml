@@ -1,0 +1,29 @@
+name: CNC ACTIVE and ISPO Members
+
+on: 
+  workflow_dispatch: # Trigger the workflow manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository # Step to check out the repository
+      uses: actions/checkout@v2
+
+    - name: Run script # Step to run the python script
+      run: python membersImport2.py cnc-alliance-members-registration
+
+    - name: Upload JSON file # Step to upload the generated JSON file
+      run: |
+        git add CNC_Active_ISPO_pool_idsTEST.json
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Uploaded CNC_Active_ISPO_pool_idsTEST.json"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Push Changes
+      run: git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
