@@ -15,8 +15,8 @@ for key in data["adapools"]["members"].keys():
        
 pool_ids = sorted(pool_ids, key = lambda x : x["ticker"])
 
-with open("CNC_Active_ISPO_pool_ids.json", "w") as outfile:
+with open("CNC_Active_ISPO_pool_idsTEST.json", "w") as outfile:
     json.dump(pool_ids, outfile, indent = 2)
 
-print("Pool IDs successfully written to CNC_Active_ISPO_pool_ids.json")
+print("Pool IDs successfully written to CNC_Active_ISPO_pool_idsTEST.json")
 print(response.text)
