@@ -12,14 +12,14 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run script # Step to run the python script
-      run: python extract_poolId.py CNC_Active_ISPO_pool_ids.json
+      run: python extract_poolId.py CNC_Active_ISPO_POOL_CHECK.json
 
     - name: Upload JSON file # Step to upload the generated JSON file
       run: |
-        git add CNC_ISPO_OFFICIAL.json
+        git add CNC_Alliance.json
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Uploaded CNC_ISPO_OFFICIAL.json"
+        git commit -m "Uploaded CNC_Alliance.json"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
