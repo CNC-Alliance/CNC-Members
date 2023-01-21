@@ -566,7 +566,7 @@
          },
          "operatorName": "Tri",
          "100%renewables?": "Yes",
-         "membershipType": "Passive",
+         "membershipType?": "Passive",
          "github": "KNGHTstakepool",
          "ispoEpochStart": "",
          "donationWalletStakeAddress": "stake1uycwwwxhtqv44yaq3djagvge457nkwwxhygsx80r20cxffgpjjvqu"
