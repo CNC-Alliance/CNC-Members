@@ -7,7 +7,7 @@ pool_ids = []
 for member in data:
     pool_ids.append(member["poolId"])
 
-with open("CNC_ISPO_OFFICIAL.json", "w") as outfile:
+with open("CNC_Alliance.json", "w") as outfile:
     json.dump(pool_ids, outfile, indent = 2)
 
-print("Pool IDs successfully written to CNC_ISPO_OFFICIAL.json")
+print("Pool IDs successfully written to CNC_Alliance.json")
