@@ -1,6 +1,6 @@
 import json
 
-with open("CNC_Active_ISPO_pool_ids.json", "r") as infile:
+with open("CNC_Active_ISPO_POOL_CHECK.json", "r") as infile:
     data = json.load(infile)
 
 pool_ids = []
