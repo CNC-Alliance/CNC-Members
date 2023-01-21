@@ -1,24 +1,29 @@
-name: Extract poolId and push to branch
+name: CNC ISPO OFFICIAL
 
-on:
-  push:
-    branches:
-    - main
+on: 
+  workflow_dispatch: # Trigger the workflow manually
 
 jobs:
-  extract_poolId:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repository # Step to check out the repository
       uses: actions/checkout@v2
-    
-    - name: Run script to extract poolId
-      run: python extract_poolId.py
-      
-    - name: Commit changes
-      run: git config --local user.email "action@github.com" && git config --local user.name "GitHub Action" && git add CNC_ISPO_OFFICIAL.json && git commit -m "Add CNC_ISPO_OFFICIAL.json"
-      
-    - name: Push changes
-      run: git push origin main
 
+    - name: Run script # Step to run the python script
+      run: python extract_poolId.py CNC_Active_ISPO_pool_ids.json
+
+    - name: Upload JSON file # Step to upload the generated JSON file
+      run: |
+        git add CNC_ISPO_OFFICIAL.json
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Uploaded CNC_ISPO_OFFICIAL.json"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Push Changes
+      run: git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
