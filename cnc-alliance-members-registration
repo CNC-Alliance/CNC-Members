@@ -552,6 +552,24 @@
         "github": "centuo",
         "ispoEpochStart": 389,
         "donationWalletStakeAddress": "stake1uxlld7fqr2ru7frlg6rcr06f7e6kgufkqdp9rd9llhp3tncd6tkkf"
+       },
+       "28": {
+         "ticker": "KNGHT",
+         "poolId": "pool1g8w64u3sx9mrvhwrdfvysw4g4wnffkjfp5zds3ur6svwzdhwhx9",
+         "poolHash": "41ddaaf2303176365dc36a58483aa8aba694da490d04d84783d418e1",
+         "social": {
+           "website": "https://knightsofcardano.com",
+           "twitter": "@KNGHTstakepool",
+           "discord": "https://discord.gg/hesEDCERRF",
+           "telegram": "https://t.me/KnightsOfCardano",
+           "emailAddress": "contact@knightsofcardano.com"
+         },
+         "operatorName": "Tri",
+         "100%renewables?": "Yes",
+         "membershipType": "Passive",
+         "github": "KNGHTstakepool",
+         "ispoEpochStart": "",
+         "donationWalletStakeAddress": "stake1uycwwwxhtqv44yaq3djagvge457nkwwxhygsx80r20cxffgpjjvqu"
        }
     }
   }
