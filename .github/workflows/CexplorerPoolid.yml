@@ -1,4 +1,4 @@
-name: CNC ISPO OFFICIAL
+name: STEP 2 - CNC ISPO OFFICIAL
 
 on: 
   workflow_dispatch: # Trigger the workflow manually
