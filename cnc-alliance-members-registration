@@ -570,6 +570,23 @@
          "github": "KNGHTstakepool",
          "ispoEpochStart": "",
          "donationWalletStakeAddress": "stake1uycwwwxhtqv44yaq3djagvge457nkwwxhygsx80r20cxffgpjjvqu"
+       },
+       "29": {
+         "ticker": "UPSTR",
+         "poolId": "pool1keasvddt9vndl8jyhg204s6kqusv5zgzg3kk3l3g949ew402ahe",
+         "poolHash": "b67b0635ab2b26df9e44ba14fac3560720ca0902446d68fe282d4b97",
+         "social": {
+           "website": "http://upstream.org.uk",
+           "twitter": "@Upstream_ada",
+           "telegram": "https://t.me/+3o2Nv1qkFmYwNDg8",
+           "emailAddress": "info@upstream.org.uk"
+         },
+         "operatorName": "Upstream",
+         "100%renewables?": "Yes",
+         "membershipType?": "Active",
+         "github": "upstreamstaking",
+         "ispoEpochStart": "360",
+         "donationWalletStakeAddress": "stake1u8ukz0ml5f98sffj55jhtqgxr3uvvuehlaynsdwyvwvskagk5wf3j"
        }
     }
   }
