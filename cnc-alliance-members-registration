@@ -588,6 +588,24 @@
          "ispoEpochStart": "360",
          "donationWalletStakeAddress": "stake1u8ukz0ml5f98sffj55jhtqgxr3uvvuehlaynsdwyvwvskagk5wf3j"
        }
+       "30": {
+         "ticker": "HAPPY",
+         "poolId": "pool1a8n7f97dmgtgrnl53exccknjdchqxrr9508hlxlgqp6xvjmzhej",
+         "poolHash": "e9e7e497cdda1681cff48e4d8c5a726e2e030c65a3cf7f9be8007466",
+         "social": {
+           "website": "http://happystaking.io",
+           "discord": "happystaking",
+           "twitter": "happystaking",
+           "telegram": "https://t.me/happystaking",
+           "emailAddress": "info@happystaking.io"
+         },
+         "operatorName": "Léon",
+         "100%renewables?": "Yes",
+         "membershipType?": "Active",
+         "github": "happystaking",
+         "ispoEpochStart": 398,
+         "donationWalletStakeAddress": "stake1uxdtkv4lzgn90yldfdv4ypz3s24tzj4dsprcgja3llfk75slp3ymz"
+       }
     }
   }
 }
