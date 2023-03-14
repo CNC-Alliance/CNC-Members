@@ -587,7 +587,7 @@
          "github": "upstreamstaking",
          "ispoEpochStart": "360",
          "donationWalletStakeAddress": "stake1u8ukz0ml5f98sffj55jhtqgxr3uvvuehlaynsdwyvwvskagk5wf3j"
-       }
+       },
        "30": {
          "ticker": "HAPPY",
          "poolId": "pool1a8n7f97dmgtgrnl53exccknjdchqxrr9508hlxlgqp6xvjmzhej",
