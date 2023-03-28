@@ -607,6 +607,25 @@
          "github": "happystaking",
          "ispoEpochStart": 398,
          "donationWalletStakeAddress": "stake1uxdtkv4lzgn90yldfdv4ypz3s24tzj4dsprcgja3llfk75slp3ymz"
+       },
+       "31": {
+         "ticker": "HAWAWK",
+         "poolId": "pool15fxktqvd92sq8plh3rjdrksumt9p8rzsayfk4akv2hng5r8ukha",
+         "poolHash": "a24d65818d2aa00387f788e4d1da1cdaca138c50e9136af6cc55e68a",
+         "social": {
+           "website": "http://Hawak.cloud",
+           "discord": "BRNMXR [HAWAK]#9993",
+           "twitter": "BRNMXR",
+           "reddit": "hawak",
+           "telegram": "https://t.me/+bTXxmTQQ6Y02ZTYx",
+           "emailAddress": "brainmixer@gmail.com"
+         },
+         "operatorName": "Amir",
+         "100%renewables?": "Yes",
+         "membershipType?": "Passive",
+         "github": "BRNMXR",
+         "ispoEpochStart": 403,
+         "donationWalletStakeAddress": "stake1uy45mgx777rhhqwz8j3vpy4q3rrl8xk8hmm92gu2hg5h7aq77tnnc"
        }
     }
   }
