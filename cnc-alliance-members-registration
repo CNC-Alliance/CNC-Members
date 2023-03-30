@@ -548,7 +548,7 @@
        },
         "operatorName": "Centuo",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "centuo",
         "ispoEpochStart": 389,
         "donationWalletStakeAddress": "stake1uxlld7fqr2ru7frlg6rcr06f7e6kgufkqdp9rd9llhp3tncd6tkkf"
