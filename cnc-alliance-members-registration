@@ -626,6 +626,23 @@
          "github": "BRNMXR",
          "ispoEpochStart": 403,
          "donationWalletStakeAddress": "stake1uy45mgx777rhhqwz8j3vpy4q3rrl8xk8hmm92gu2hg5h7aq77tnnc"
+       },
+        "32": {
+         "ticker": "SUDTI",
+         "poolId": "pool19k4azhj8tye5wwy5pfj7q6m938m8fg5nglds5dkhtfwnvcg3s0k",
+         "poolHash": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
+         "social": {
+           "website": "http://southtyrolpool.it",
+           "discord": "Southtyrolpool [SUDTI]#7326",
+           "twitter": "southtyrolpool",
+           "emailAddress": "markus@southtyrolpool.it"
+         },
+         "operatorName": "Markus",
+         "100%renewables?": "Yes",
+         "membershipType?": "Passive",
+         "github": "fisch192",
+         "ispoEpochStart": 413,
+         "donationWalletStakeAddress": "stake1uxmq70numdwu0kyd5r9upcnydxl0ye4p8qafxwqg8j3zl3gcpr0hf"
        }
     }
   }
