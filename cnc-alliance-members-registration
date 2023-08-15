@@ -583,7 +583,7 @@
          },
          "operatorName": "Upstream",
          "100%renewables?": "Yes",
-         "membershipType?": "Active",
+         "membershipType?": "Passive",
          "github": "upstreamstaking",
          "ispoEpochStart": "360",
          "donationWalletStakeAddress": "stake1u8ukz0ml5f98sffj55jhtqgxr3uvvuehlaynsdwyvwvskagk5wf3j"
