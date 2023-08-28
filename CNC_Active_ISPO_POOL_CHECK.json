@@ -16,6 +16,10 @@
     "poolId": "pool1vqm5n5d503uumuc89s5y4wuczrwe3tlgylt2u2uj7y276avr5pl"
   },
   {
+    "ticker": "BURN",
+    "poolId": "pool1r0sxz0hygfc0266lhdclve6j3cwcwlth6dya6uey65yxjnwm7qc"
+  },
+  {
     "ticker": "CBH",
     "poolId": "pool1cspe7naf0mtntwyysqxk6czah3jlh6v4cja8pdfju932yxsehnm"
   },
@@ -56,10 +60,6 @@
     "poolId": "pool12kdg7dmdfh0t9hmy43pvl38ftu5dvppyn86wgkc4jq8557xkyz7"
   },
   {
-    "ticker": "RSV",
-    "poolId": "pool1r0sxz0hygfc0266lhdclve6j3cwcwlth6dya6uey65yxjnwm7qc"
-  },
-  {
     "ticker": "SHIFT",
     "poolId": "pool1jrws5cpc6nydu0yxrexf5vflgga0fr4qlduz8cs3pgqmye3xurt"
   },
@@ -78,9 +78,5 @@
   {
     "ticker": "YOON",
     "poolId": "pool1lxqewhueg4hzyad766zhdwsjet5348ww8mzejf6fprxaw8wfq5s"
-  },
-  {
-    "ticker": "YUMMI",
-    "poolId": "pool1gsrcrjm6ctkquef6m8jsyvplv0j357hupn92uklqdcm7729ytv6"
   }
 ]
