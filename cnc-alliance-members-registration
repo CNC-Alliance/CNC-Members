@@ -643,6 +643,23 @@
          "github": "fisch192",
          "ispoEpochStart": 413,
          "donationWalletStakeAddress": "stake1uxmq70numdwu0kyd5r9upcnydxl0ye4p8qafxwqg8j3zl3gcpr0hf"
+       },
+       "33": {
+         "ticker": "LAPO",
+         "poolId": "pool13daql23lkcwwj0gsz0dnu9tu20pugpswfped3kp05ekxkgmcumt",
+         "poolHash": "8b7a0faa3fb61ce93d1013db3e157c53c3c4060e4872d8d82fa66c6b",
+         "social": {
+           "website": "https://www.laponia.io/",
+           "discord": "laponia",
+           "twitter": "@Laponia_pool",
+           "telegram": "https://t.me/laponia_pool",
+           "emailAddress": "contact@laponia.io"
+         },
+         "operatorName": "Loïc",
+         "100%renewables?": "Yes",
+         "membershipType?": "Passive",
+         "github": "Loic-Durand",
+         "donationWalletStakeAddress": "stake1u9h20shl2xs8dhtpuwgp54c0fmaqawa6cf7ahmeresyre3ggzgk7r"
        }
     }
   }
