@@ -643,6 +643,22 @@
          "github": "fisch192",
          "ispoEpochStart": 413,
          "donationWalletStakeAddress": "stake1uxmq70numdwu0kyd5r9upcnydxl0ye4p8qafxwqg8j3zl3gcpr0hf"
+        },
+        "33": {
+         "ticker": "ADABR",
+         "poolId": "pool1z97uz9kzzfdekjjrmxvslvxzyj9jep6thf4he5qtmcdaqvznl8c",
+         "poolHash": "117dc116c2125b9b4a43d9990fb0c2248b2c874bba6b7cd00bde1bd0",
+         "social": {
+           "website": "https://adazulpool.com/",
+           "telegram": "https://t.me/adabrpool_ptbr",
+           "twitter": "adazulpool",
+           "emailAddress": "contact@adazulpool.com"
+         },
+         "operatorName": "Tauan & Victor",
+         "100%renewables?": "Yes",
+         "membershipType?": "Active",
+         "github": "victorgrecia",
+         "donationWalletStakeAddress": "stake1ux3vp8dkpkpnfnmyc7q9zyr8f9g46a6hw8lz5rea6pwa62g835had"
        }
     }
   }
