@@ -643,7 +643,24 @@
          "github": "fisch192",
          "ispoEpochStart": 413,
          "donationWalletStakeAddress": "stake1uxmq70numdwu0kyd5r9upcnydxl0ye4p8qafxwqg8j3zl3gcpr0hf"
-       }
+       },
+       "33": {
+        "ticker": "ADACT",
+        "poolId": "pool1y24nj4qdkg35nvvnfawukauggsxrxuy74876cplmxsee29w5axc",
+        "poolHash": "22ab39540db22349b1934f5dcb7788440c33709ea9fdac07fb343395",
+        "social": {
+          "website": "https://adacapital.io",
+          "twitter": "@ada_capital",
+          "discord": "adacapital",
+          "emailAddress": "contact@adacapital.io"
+        },
+        "operatorName": "Thomas",
+        "100%renewables?": "Yes",
+        "membershipType?": "Passive",
+        "github": "adacapital",
+        "ispoEpochStart": "",
+        "donationWalletStakeAddress": ""
+      }
     }
   }
 }
