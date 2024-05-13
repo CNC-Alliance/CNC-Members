@@ -35,7 +35,7 @@
         },
         "operatorName": "Beatrix",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "BioPool",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": ""
@@ -115,7 +115,7 @@
         },
         "operatorName": "Greg",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "gvolcy",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9xhp3ygjfxg3t8j3dst5y2r5y6f84q0cmfrz7yknr8y9rcc8lapn"
@@ -135,7 +135,7 @@
         },
         "operatorName": "Lukas",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "RenewPool",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": ["stake1uyv4gly3ge228rnkxxjlv94pa44egf28ful7av6ggsgx4ugymu869", "stake1uy8h3nutknylmy6shtqu2nn0jgsckqdqjnzr0fyu5s54d2schqqjf"]
@@ -176,7 +176,7 @@
         },
         "operatorName": "Tom",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "RSVpool",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uyu27zfl44xal7h6yvll2psx8lslkdrhvdl7tvl9rt8xllc24ckey"
@@ -216,7 +216,7 @@
         },
         "operatorName": "Jochen",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "cardano-blockhouse",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9mhrnmrm9s2l4ywt3qrctg9gakvfmctwj4u4kuuvzs080ck5mrud"
@@ -256,7 +256,7 @@
         },
         "operatorName": "Vio",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "maneav",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9akuar40u4edzsr0f7nl3yvjvlln6737fc5fgrepaxg4ls7lquph"
@@ -356,7 +356,7 @@
         },
         "operatorName": "Lio",
         "100%renewables?": "Yes",
-        "membershipType?": "ISPO",
+        "membershipType?": "Passive",
         "github": "F2ViADA",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u8hn85ms8ktvjdzk59qja3zm6ezq9crvtlh89tl4n5tvxpqmqea3x"
@@ -377,7 +377,7 @@
         },
         "operatorName": "Brian & Lisa",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "BrianLee12",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u8ee40mnyyur684z7evy7x64djf8dx22yy5vam9yh0thtwgeknqrh"
@@ -397,7 +397,7 @@
         },
         "operatorName": "Genty",
         "100%renewables?": "Yes",
-        "membershipType?": "ISPO",
+        "membershipType?": "Passive",
         "github": "fsamvura",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
@@ -474,7 +474,7 @@
         },
         "operatorName": "Rhys",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "rhystmorgan",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u9ff8arta55s99ul6se8df2lx25x00x9883yaxggptk9xlsvw4gn8"
@@ -494,7 +494,7 @@
         },
         "operatorName": "Denicio Bute",
         "100%renewables?": "No",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "weqanhet",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uy8xhkv9s94atyrprwslaeswt2wk5pgpqp7e965k2gk0glqvfk2fm"
@@ -530,7 +530,7 @@
        },
         "operatorName": "Mat",
         "100%renewables?": "Yes",
-        "membershipType?": "Active",
+        "membershipType?": "Passive",
         "github": "ma42mi",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1uyl32cd4sxsn5vym4fe5xt7n428n8urc052rve46tfjsxkq7v5j8j"
