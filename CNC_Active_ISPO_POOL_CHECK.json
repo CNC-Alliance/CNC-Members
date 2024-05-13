@@ -4,40 +4,8 @@
     "poolId": "pool1zt2d9aa8ck62uyy985yny47hr0f6cmf2hnxzke0up0lc7zcp65f"
   },
   {
-    "ticker": "ARM1",
-    "poolId": "pool15txd36fltfgc63qq0yxtpqt88eu76s0yhugn9a6q7f4zspq6k5f"
-  },
-  {
     "ticker": "BEADA",
     "poolId": "pool14qpadfdjzw6jkwxy67uhey6tjpyppsmwgz5awfsxwrtpsecslpc"
-  },
-  {
-    "ticker": "BIO",
-    "poolId": "pool1vqm5n5d503uumuc89s5y4wuczrwe3tlgylt2u2uj7y276avr5pl"
-  },
-  {
-    "ticker": "BURN",
-    "poolId": "pool1r0sxz0hygfc0266lhdclve6j3cwcwlth6dya6uey65yxjnwm7qc"
-  },
-  {
-    "ticker": "CBH",
-    "poolId": "pool1cspe7naf0mtntwyysqxk6czah3jlh6v4cja8pdfju932yxsehnm"
-  },
-  {
-    "ticker": "DEGAS",
-    "poolId": "pool1g9v6nnrn8x7jcj26mqernsh3h97g6gyhamttzg8q39yvjr60g7k"
-  },
-  {
-    "ticker": "ECO",
-    "poolId": "pool1wt0pf4u2xktp0f7apveu242w6nkm4ltk3m8g039lvuhwq4zdtf3"
-  },
-  {
-    "ticker": "GAIA",
-    "poolId": "pool17e4rdh59t4fmn4g3p02xvs853katrjzge830tsmd3sfdc645yvt"
-  },
-  {
-    "ticker": "GOMA",
-    "poolId": "pool1jqssxka8hu94aj6f4w3s8l5m6juqmx0hk3ges48jfac6zngmkh8"
   },
   {
     "ticker": "GRANA",
@@ -56,24 +24,8 @@
     "poolId": "pool1p82vmqednsalje23mpnz9u3qt9ruj79xu83mr6p8t93fw5fcu3y"
   },
   {
-    "ticker": "RENEW",
-    "poolId": "pool12kdg7dmdfh0t9hmy43pvl38ftu5dvppyn86wgkc4jq8557xkyz7"
-  },
-  {
     "ticker": "SHIFT",
     "poolId": "pool1jrws5cpc6nydu0yxrexf5vflgga0fr4qlduz8cs3pgqmye3xurt"
-  },
-  {
-    "ticker": "STOIC",
-    "poolId": "pool1pxw4z2m0lmw422hr32dwyy3uz9436g8p7qdmg2sl2w0m5pyk3yn"
-  },
-  {
-    "ticker": "VOLCY",
-    "poolId": "pool1u0u2s080a5plun4acn6s70xa3q98ct7skt88l7w6nnwwyl9ecym"
-  },
-  {
-    "ticker": "WEQNT",
-    "poolId": "pool15f9qklmaajysmwx9n3rkgc5s2g3rfffz4x8spnedtzdgq43tpe2"
   },
   {
     "ticker": "YOON",
