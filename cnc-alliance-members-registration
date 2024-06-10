@@ -397,7 +397,7 @@
         },
         "operatorName": "Genty",
         "100%renewables?": "Yes",
-        "membershipType?": "Passive",
+        "membershipType?": "Active",
         "github": "fsamvura",
         "ispoEpochStart": 377,
         "donationWalletStakeAddress": "stake1u89f40yj4awteug4acsmrhmjvzdkc9fnnedk9gqsclhskpg7a5kxr"
